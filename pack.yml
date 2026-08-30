@@ -1,0 +1,11 @@
+name: matcha-flavoured
+version: '0.1.0'
+instance:
+  minecraft_version: '26.2.0'
+  loader: fabric
+  loader_version: '0.19.5'
+  allowed_foreign_loaders:
+  - minecraft
+settings:
+  vcs_mode: track_components
+local_components: []
