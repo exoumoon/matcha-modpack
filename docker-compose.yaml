@@ -1,0 +1,39 @@
+services:
+  server:
+    hostname: matcha-flavoured
+    image: itzg/minecraft-server:java25
+    container_name: matcha-flavoured
+
+    network_mode: host
+    # ports:
+    # - '25565:25565'
+    
+    environment:
+      ONLINE_MODE: false
+      MODRINTH_MODPACK: /data/modpack.mrpack
+      FABRIC_VERSION: '0.19.5'
+      ALLOW_FLIGHT: true
+      RCON_CMDS_FIRST_CONNECT: |
+        /whitelist off
+        /op mxxntype
+      MEMORY: '16G'
+      ENABLE_AUTOPAUSE: false
+      TYPE: MODRINTH
+      MOTD: invar-server/0.7.0 | matcha-flavoured | 26.2
+      EULA: 'TRUE'
+      VERSION: '26.2'
+      USE_AIKAR_FLAGS: true
+      DIFFICULTY: normal
+      VIEW_DISTANCE: 12
+      MAX_PLAYERS: 8
+      MODE: survival
+      REMOVE_OLD_DATAPACKS: true
+    restart: unless-stopped
+    volumes:
+    - source: server
+      target: /data
+      type: bind
+    - source: export/matcha-flavoured-latest.mrpack
+      target: /data/modpack.mrpack
+      type: bind
+      read_only: true

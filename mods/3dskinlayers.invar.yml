@@ -1,0 +1,16 @@
+id: '3dskinlayers'
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/zV5r3pPn/versions/rJYtiDew/skinlayers3d-fabric-1.11.2-mc26.2.jar
+  file_name: skinlayers3d-fabric-1.11.2-mc26.2.jar
+  file_size: 1966389
+  version_id: rJYtiDew
+  hashes:
+    sha1: '7c8a66d009051bab26f7489e1edef8b3c64f7b0e'
+    sha512: ead4a257e5ec2b092db84aebc7f5146dfb667a01f5d1362485f9ea9835e4558172949bcfb40c7a0bfbfb36e6c746b96c580f855af4109c806e0fc3591d48ad80

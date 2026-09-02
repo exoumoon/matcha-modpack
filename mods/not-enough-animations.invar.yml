@@ -1,0 +1,16 @@
+id: not-enough-animations
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/MPCX6s5C/versions/67xQnLDS/notenoughanimations-fabric-1.12.4-mc26.2.jar
+  file_name: notenoughanimations-fabric-1.12.4-mc26.2.jar
+  file_size: 1937831
+  version_id: '67xQnLDS'
+  hashes:
+    sha1: b445a6c551ac0c6535d3411db13236bf69728ef1
+    sha512: '41c05f531298cce723a84639fb6b9510bfa25e65ff27a041083d47900d743d44473e1f7bdbcd87d7cd149f1291a1359dc3d8553a176be21c432ea15bbbdda92e'

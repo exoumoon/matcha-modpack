@@ -1,0 +1,16 @@
+id: architectury-api
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/lhGA9TYQ/versions/1yQC4VvP/architectury-fabric-21.0.7.jar
+  file_name: architectury-fabric-21.0.7.jar
+  file_size: 587038
+  version_id: '1yQC4VvP'
+  hashes:
+    sha1: '7c00161fc93303ba504f02f6bf3e3f42b99e1d84'
+    sha512: deffcad73b8f73d611d8e43ddad3b380e7896ba53e4b4f3660ab877b9c4ba20561e498888b17456b2b8819fb902e2070760613ce6fec9e1f1082990014e92dd4

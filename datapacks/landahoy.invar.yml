@@ -1,0 +1,16 @@
+id: landahoy
+category: datapack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/pGquGAju/versions/KGzXmNil/Land%20Ahoy%21%201.3.zip
+  file_name: 021-land-ahoy.zip
+  file_size: 312426
+  version_id: KGzXmNil
+  hashes:
+    sha1: '5dbab40d34e1da9017493f86f77a0d85eed8c121'
+    sha512: c00e496599f53976b155c9e2fb0008b4402420efd0d3875783bc886d5082fa4a960b14260349ac26999fbbd1ad3d5ba10e08c52292294ab2e6419edff0aebf0a

@@ -1,0 +1,16 @@
+id: chat-heads
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Wb5oqrBJ/versions/lyZOZ4qX/chat_heads-1.2.8-fabric-26.1.jar
+  file_name: chat_heads-1.2.8-fabric-26.1.jar
+  file_size: 94568
+  version_id: lyZOZ4qX
+  hashes:
+    sha1: a320d713c60bb34d676c97aaadd8256acb9416da
+    sha512: b8f6a7fde96e2a36bd339e950113e9ced3190461cf7a940c67cf8817c647e029675acb31f5c1ecd2f6be76f11a32d78f132dbde7ea1d8aa7512075b60c1797f8

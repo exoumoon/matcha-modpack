@@ -1,0 +1,16 @@
+id: midnightlib
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/codAaoxh/versions/3uBvRFE9/midnightlib-fabric-1.9.3%2B26.2.jar
+  file_name: midnightlib-fabric-1.9.3+26.2.jar
+  file_size: 60027
+  version_id: '3uBvRFE9'
+  hashes:
+    sha1: '150ef19c168ef022b554b4c05bc0fdac13fcb2c3'
+    sha512: '46a0959737bb54431f0ae0a7dfa2467f26211d27ea2cd1ef7a7750c9a97425f481db46bab6cc861cd3b77accb7dfef3653dc5c683d7dfc07fa7f76824351ce22'

@@ -1,0 +1,16 @@
+id: entityculling
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/NNAgCjsB/versions/iiF6U3Ne/entityculling-fabric-1.10.5-mc26.2.jar
+  file_name: entityculling-fabric-1.10.5-mc26.2.jar
+  file_size: 1583775
+  version_id: iiF6U3Ne
+  hashes:
+    sha1: f66f9d8cbb1f76466aaf45e46fb11b18207e3aef
+    sha512: '338813c344a2d924abbaaf249da2b52f5e162bd92407f3099c6ff1bce1c1efecde9df80efcc7b4de3b3a0044cc5735b96594b04da4594bb26793459fc6c960a6'

@@ -1,0 +1,16 @@
+id: lithium
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/gvQqBUqZ/versions/f7vZ0VWU/lithium-fabric-0.25.3%2Bmc26.2.jar
+  file_name: lithium-fabric-0.25.3+mc26.2.jar
+  file_size: 912850
+  version_id: f7vZ0VWU
+  hashes:
+    sha1: '435ad0289209bb72195e7a423756a03f5dfa5a9a'
+    sha512: '148b638f3c6229fbaf487120a2344a0af5e411a5aa6533d5db9d75da0a8c0d8304f63eb4cca13f4d03b2c9b4c23d559dd74c1d832422ef8a3087bd005e62a8bd'

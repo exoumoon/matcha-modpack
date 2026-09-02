@@ -1,0 +1,16 @@
+id: countereds-terrain-slabs
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/SJu6sklj/versions/56bn9Gyw/Terrain%20Slabs%20v3.3.2-26.2.jar
+  file_name: Terrain Slabs v3.3.2-26.2.jar
+  file_size: 335559
+  version_id: '56bn9Gyw'
+  hashes:
+    sha1: '539e30b302752f9d4cd17c7a7d7dd21a332cc781'
+    sha512: ffe8c941e0536729ffd1d68cc7dbe3ac48170616118abe663da061700e1331245824bd76c568d7ba0cb984786b7a422dfff6e4a4ef8334f92ea7bb6de4bb4ea7

@@ -1,0 +1,16 @@
+id: shine
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/uQgWIE6A/versions/RqeUTVgc/shine-3.1.1%2B26.2.jar
+  file_name: shine-3.1.1+26.2.jar
+  file_size: 98363150
+  version_id: RqeUTVgc
+  hashes:
+    sha1: '1209f5e90d67f1be1dfcf27603d61ae80fdcfc7f'
+    sha512: f3941ca041301595c1d0ba27a123bc69c05f8c935fdaaee66e3b40ada03e5fdc0bd4db10781c65b431b1febf921a62e636c7d533fe205cf78d2c2e793db130fd

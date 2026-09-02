@@ -1,0 +1,16 @@
+id: voxy
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/fxxUqruK/versions/LzyXnE51/voxy-0.2.19-beta.jar
+  file_name: voxy-0.2.19-beta.jar
+  file_size: 12662161
+  version_id: LzyXnE51
+  hashes:
+    sha1: a345fbd2b2d1e378452763e2864f1056b212ac98
+    sha512: '9071acefff00f952b049134f7ee8b5c8be27646ade992274f9a32e4adf7ad0932f9755530fa212a8e65cc23b3ed5dc643af139be83fcb89c778d8c8e723b9c3a'

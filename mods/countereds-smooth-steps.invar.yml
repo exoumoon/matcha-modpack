@@ -1,0 +1,16 @@
+id: countereds-smooth-steps
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/5VSZqDK0/versions/PXGvC030/Smooth%20Steps%20v1.2.0-26.2.jar
+  file_name: Smooth Steps v1.2.0-26.2.jar
+  file_size: 10646
+  version_id: PXGvC030
+  hashes:
+    sha1: '8cec01d00eeff5611f07d4595f41c980a53745c4'
+    sha512: '066b8042e202ecf73d798fd6a4053af6b694a834261789363d0ea6596ea53117eb1f19dc74164d0a5c98e75748108ea3eedf547477868d72c884bbe5c762caad'

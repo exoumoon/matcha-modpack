@@ -1,0 +1,16 @@
+id: modmenu
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/mOgUt4GM/versions/njXb639R/modmenu-20.0.1.jar
+  file_name: modmenu-20.0.1.jar
+  file_size: 614002
+  version_id: njXb639R
+  hashes:
+    sha1: '8562dee49eae1a6bdd14b026be1b300aedb5ce0f'
+    sha512: '1aa297ab5e6fac71ad6af750fe6f8cd25281bd00c0340e5fe1c1e9d153d1198df03be1df55727a4a2116db97dcaad541d41754f3fc0063abfe4345b60f193fb4'

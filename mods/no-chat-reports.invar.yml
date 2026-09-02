@@ -1,0 +1,16 @@
+id: no-chat-reports
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/qQyHxfxd/versions/aDbxaVTi/NoChatReports-FABRIC-26.2-v2.20.2.jar
+  file_name: NoChatReports-FABRIC-26.2-v2.20.2.jar
+  file_size: 239602
+  version_id: aDbxaVTi
+  hashes:
+    sha1: '680b60f6ec5c09a646e7a76bb17cf551608051cd'
+    sha512: aa14fa2d1cc94803f4c965fd817a945823037237bd7a1fea9dc9a0c6427084d25b8d9273da76bc132fe68794d2be8b91540bfff1309125aea37820c12bff0268

@@ -1,0 +1,16 @@
+id: voxy-worldgen
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/xT0lnNE9/versions/fZooaCeC/Voxy%20World%20Gen%20V2-fabric-26.2-2.4.3.jar
+  file_name: Voxy World Gen V2-fabric-26.2-2.4.3.jar
+  file_size: 252075
+  version_id: fZooaCeC
+  hashes:
+    sha1: '4c94536138d9a366fca64825757e120060ae3ac8'
+    sha512: c2e641ab1c6310fc67ff94f7edc52db41a7cb382c736d2bf2e23156be31ed8c878da42130a5c6f7375ac0efd98f99840f079323f348b2bf6fcb37d8d329ef3f3

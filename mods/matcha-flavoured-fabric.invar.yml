@@ -1,0 +1,16 @@
+id: matcha-flavoured-fabric
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/9LKX5H57/versions/DDaaVjeR/matcha-flavoured-fabric-1.1.2-r.4%2Bmc26.2.jar
+  file_name: matcha-flavoured-fabric-1.1.2-r.4+mc26.2.jar
+  file_size: 10838677
+  version_id: DDaaVjeR
+  hashes:
+    sha1: f3a7fb50807a9b7a9bf319ef6b202329ee910774
+    sha512: '3699565ad19e14eb98c4b8eb6950c99099120a30b2474b4a5302a1c54841cdd5bb40cd60af60990d32f25a2fb7f72ad162d0f9598efb9695993eaa01599e7439'

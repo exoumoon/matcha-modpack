@@ -1,0 +1,16 @@
+id: streams-reflowing
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/oLS8HdJ1/versions/enNkL9Tp/StreamsReflowing-26.2-fabric-2.13.1.jar
+  file_name: StreamsReflowing-26.2-fabric-2.13.1.jar
+  file_size: 2659653
+  version_id: enNkL9Tp
+  hashes:
+    sha1: '15b52fa40215b94a9f4121fd35caab34b64d3556'
+    sha512: fdbaada1edb96ab039026c4351c9edd57aafdffc5ccc1a12f344057f86856825c50b2580514caef076fcd5f0cae10352bcca3fe5687260fe82e0f97026cd7be5

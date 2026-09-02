@@ -1,0 +1,16 @@
+id: yacl
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/1eAoo2KR/versions/cnfPzuFU/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar
+  file_name: yet_another_config_lib_v3-3.9.6+26.2-fabric.jar
+  file_size: 1121529
+  version_id: cnfPzuFU
+  hashes:
+    sha1: '40887775504751acd752545e6370a76ca3b5bda9'
+    sha512: b3a58e4a5ef54647569282b8b2e9630389b3568f0abecb9c168daaa815477cbf961e79de28081cac551b69b810f561f043d669d1034aec80f12153a53dff53ef

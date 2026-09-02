@@ -1,0 +1,16 @@
+id: entitytexturefeatures
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/BVzZfTc1/versions/HLCBKYFD/entity_texture_features-7.1.1-26.2-fabric.jar
+  file_name: entity_texture_features-7.1.1-26.2-fabric.jar
+  file_size: 762131
+  version_id: HLCBKYFD
+  hashes:
+    sha1: '2d09a60630e8f25a25d9c06d87684c74a843caac'
+    sha512: '4acd478923fac5300fb43cbcc3b6a7501fee473491ee416b5d5a1203bdb8ceeaed04ff34bd1730a9cbff7bc4497265ab129f9eee2ca1d37a70c463203b1a8c20'

@@ -1,0 +1,16 @@
+id: matcha-block-overlays
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/NsganuaN/versions/1kdtZJHd/Matcha%20Overlays%201.12.1-hf.1.zip
+  file_name: Matcha Overlays 1.12.1-hf.1.zip
+  file_size: 1227856
+  version_id: '1kdtZJHd'
+  hashes:
+    sha1: '7b5029f0aed1e0d3a0a058c732d88e1adf59b78f'
+    sha512: '5cecef0955879ebdf98b6fcfeab1ce99e8ba5d249cfd393fcd7fa7731f8706d386fa876bff536914b5d4b71e95120fb6a67248faca5f5a1d3bea8c18ba7eb55a'

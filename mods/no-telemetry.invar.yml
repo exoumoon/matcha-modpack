@@ -1,0 +1,16 @@
+id: no-telemetry
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/hg77g4Pw/versions/cBEkQM9c/no-telemetry-1.10.0.jar
+  file_name: no-telemetry-1.10.0.jar
+  file_size: 96316
+  version_id: cBEkQM9c
+  hashes:
+    sha1: '3d52342f5825d01dda6661ef7116cdbacbe49746'
+    sha512: a123e59ee7cb9de88669de06d56f5313cc60ee5ec80b0cc407ca0cff3b54b81255fba65e615fa7a33142b8030868e0c2a4cf9bdeadda7b3c593d707eff45576d

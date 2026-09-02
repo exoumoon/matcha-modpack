@@ -1,0 +1,16 @@
+id: no-realms-button
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/AMMUyCdF/versions/MXWSaFmO/norealmsbutton-3.0.4%2B26.2-fabric.jar
+  file_name: norealmsbutton-3.0.4+26.2-fabric.jar
+  file_size: 45055
+  version_id: MXWSaFmO
+  hashes:
+    sha1: '97b760ee746ed5c2f20d233ee88661e8ecd208ca'
+    sha512: '9915c890523f21e0501276b5b2d51b023c1c271f897523e043eda0f369822b482142d2a37d1714cf18a338ac9523d5eba1510e77ecc3090100c2576e3f36020b'

@@ -1,0 +1,16 @@
+id: c2me-fabric
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/VSNURh3q/versions/jSMMstCy/c2me-fabric-mc26.2-0.4.2-alpha.0.43.jar
+  file_name: c2me-fabric-mc26.2-0.4.2-alpha.0.43.jar
+  file_size: 3833382
+  version_id: jSMMstCy
+  hashes:
+    sha1: adc075c03227d8ba9d25756286b6e16fb11d96d3
+    sha512: c9c9c9babe4d94e06abf72c92e453aaa39c82634a7ae646d1041f673e12eff3d99e77e205a686ea53d0a5ae143e9e1e6ed595b3ccfcaeafe64cbfb6327e2f375

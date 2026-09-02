@@ -1,0 +1,16 @@
+id: datapack-injector
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/9nFfpUyI/versions/Ogkidk3Q/datapack-injector-fabric-1.0.0%2B26.2.jar
+  file_name: datapack-injector-fabric-1.0.0+26.2.jar
+  file_size: 5426
+  version_id: Ogkidk3Q
+  hashes:
+    sha1: d51088d02735e86459176b0da11048bed167941d
+    sha512: f607c387589798540fb0e56a900d73b14e4364cf1f463ad8c312d824910afbc19c9f6436df6db20cf86f8d68818d6afb427833b87237f26af470f4096624663c

@@ -1,0 +1,16 @@
+id: fabric-language-kotlin
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar
+  file_name: fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar
+  file_size: 8076363
+  version_id: bdhiINYC
+  hashes:
+    sha1: '620cb137a9dc69ce86f3114f19d9eedab16366f5'
+    sha512: '9a63c35a550b0362b7b25ff045d93709c7b0dae08c89076cba422813fdfb9e5f5dd021ed3afac9f82e74e95b88c249e8f68b240717151540ca3e88cc27fb9c77'

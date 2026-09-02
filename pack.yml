@@ -8,4 +8,10 @@ instance:
   - minecraft
 settings:
   vcs_mode: track_components
-local_components: []
+local_components:
+- source_path: mods/emi-1.1.24-b60b8f8+26.2+fabric.jar
+  runtime_path: null
+  category: mod
+  environment:
+    client: required
+    server: required

@@ -1,0 +1,16 @@
+id: debugify
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/QwxR6Gcd/versions/V2I3yC58/debugify-26.2.0.0.jar
+  file_name: debugify-26.2.0.0.jar
+  file_size: 368634
+  version_id: V2I3yC58
+  hashes:
+    sha1: a1b34d3b6f069569df9ad99b1e40eb765f0baa06
+    sha512: '41999eeff94c6a69810d65571bb09cb49a6c29a1e134f49fe31fe826e41f7a6cf7997350fb0d175270fe10c81e5e6433738562f8a22a57725a6f76544414e396'
