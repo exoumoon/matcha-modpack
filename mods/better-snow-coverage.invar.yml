@@ -1,0 +1,16 @@
+id: better-snow-coverage
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/hnruzXAw/versions/jUUjr5rX/better-snow-coverage-0.4.2%2Bmc26.2.jar
+  file_name: better-snow-coverage-0.4.2+mc26.2.jar
+  file_size: 104650
+  version_id: jUUjr5rX
+  hashes:
+    sha1: '7c978d79ee6f16dcdaf3c12663df3461a0886b56'
+    sha512: '81a41e01e64394babf36113460e3e686c88aac20f8060bd486a7ffcec7d563abd6d68dc311a8cd8e67d723992904f1154d12bd66b396cebef54b4d049043810e'

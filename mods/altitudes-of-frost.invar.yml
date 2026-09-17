@@ -1,0 +1,16 @@
+id: altitudes-of-frost
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/RhBoTmI0/versions/KK7G06qC/altitudes-of-frost-1.0.0.jar
+  file_name: altitudes-of-frost-1.0.0.jar
+  file_size: 49205
+  version_id: KK7G06qC
+  hashes:
+    sha1: cecc11fd119bc5be6dc79f430ebf1c2a5ba4b78a
+    sha512: '2d92fa0ec5f7ffecb69e43649e3e9f071396fba6bbf0209038e945d20c4a4d29802aaf77e1bb5c56f7d200e6aec9336610ea42a185edb22f587f2061c9a098c6'

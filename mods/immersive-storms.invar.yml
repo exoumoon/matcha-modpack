@@ -1,0 +1,16 @@
+id: immersive-storms
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/SdJDElEu/versions/3Box8PS5/immersive-storms-1.7.3%2B26.2.jar
+  file_name: immersive-storms-1.7.3+26.2.jar
+  file_size: 829562
+  version_id: '3Box8PS5'
+  hashes:
+    sha1: '50248e4b9cad1f35d4963070dda6e36a7fb7dd1b'
+    sha512: '423bb9e0122444345026913b87fb64ea5839d61a73c95f72a303d0a1b08af2db4a39e1613074812644196506ef5b1b8e56ad2082747d7aaa9ebecc88083f7dba'

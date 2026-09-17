@@ -1,0 +1,16 @@
+id: xerca-blocks
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/pAXaLv6Y/versions/F8blBTB2/xercablocks-26.2-1.0.0.jar
+  file_name: xercablocks-26.2-1.0.0.jar
+  file_size: 1368204
+  version_id: F8blBTB2
+  hashes:
+    sha1: c46d0dc1547fb416c3798eb4934755c9ee5fa16a
+    sha512: '15d96b6b9745c54b26ea0cddc0fb2a423ea598012e43091ee99e5cbd8e6f82d87995946fb3bfceb3d10008a1570f1812fda43f047c1e88cbfb5beb3f6e96f2c7'

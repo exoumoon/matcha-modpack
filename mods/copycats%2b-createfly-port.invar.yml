@@ -1,0 +1,16 @@
+id: copycats%2b-createfly-port
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/3yqe09Ii/versions/khQfHrm0/CopycatsPlus-26.2.jar
+  file_name: CopycatsPlus-26.2.jar
+  file_size: 1635958
+  version_id: khQfHrm0
+  hashes:
+    sha1: '50711f72da897dd9ba48117ef02e3810692995c0'
+    sha512: bb99b535cbf31a2cf02fbee183250bfe31465e044f5152f222ea3bb5ce00297a8831bcc90cb3354e6f60ab83cc848ef1fcdf77d138d6fc3b2954a2c888f23241

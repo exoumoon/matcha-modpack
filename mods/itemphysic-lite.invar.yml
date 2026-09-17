@@ -1,0 +1,16 @@
+id: itemphysic-lite
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/OuyCgP8t/versions/Bfg0KHO5/ItemPhysicLite_FABRIC_v1.6.12_mc26.2.jar
+  file_name: ItemPhysicLite_FABRIC_v1.6.12_mc26.2.jar
+  file_size: 28089
+  version_id: Bfg0KHO5
+  hashes:
+    sha1: '58879c204502556f8c377f7483cfb40f76a1a6a7'
+    sha512: '0164d4f6bd195b9bbbd3bd890eab80644fea71e62cfb87aec2d6078809436822b2a0886b8ee22de6f431c73abfd51b42f65ed4ea304be04bd8d67bcf0ea196fb'

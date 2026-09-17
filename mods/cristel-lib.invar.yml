@@ -1,0 +1,16 @@
+id: cristel-lib
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/cl223EMc/versions/9p2TokHI/cristellib-fabric-26.2-3.1.11.jar
+  file_name: cristellib-fabric-26.2-3.1.11.jar
+  file_size: 588168
+  version_id: '9p2TokHI'
+  hashes:
+    sha1: '8e20161db9ce87b8d918820cdd94501b6635252f'
+    sha512: '77f448cb2c8d37374bc4c6fadfa4c7dba6393fcd9340a3228b2de6fc6f8c73eb6418e6e16c5c9bdbb42a65479e938810d690697894a9d79ce363c9c741fa9419'

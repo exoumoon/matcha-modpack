@@ -1,0 +1,16 @@
+id: cleancut
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/CCNUnbXG/versions/VdCxunGt/cleancut-fabric-26.2-8.1.0%2B26.2.jar
+  file_name: cleancut-fabric-26.2-8.1.0+26.2.jar
+  file_size: 17720
+  version_id: VdCxunGt
+  hashes:
+    sha1: a8eeaf13b9f51d6fda0399d1bd3e0cb3df6c43ed
+    sha512: '43b9b6db5f22f1adefe3ef7ed7722c29098f948e356f84735f8c9854b1a04408e0d81644c931e774316a98fc5dc552421604f43c27d6d8d03c77dba2f7690402'

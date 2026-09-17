@@ -1,0 +1,16 @@
+id: amethyst-nether
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/9EFaPoo8/versions/ItSnSx09/amethyst-nether-v4.3.2.jar
+  file_name: amethyst-nether-v4.3.2.jar
+  file_size: 1722266
+  version_id: ItSnSx09
+  hashes:
+    sha1: '1e8c73df635309127e64cfee48dfce4e28559067'
+    sha512: '357ddd7ada8c77678dc326e521f8e6b313fd2a5f925c5d0deefe323fd283986b7268c894e10ce73005598e58e056c589a8f1f5866fbfc6edf0b420218387be2d'

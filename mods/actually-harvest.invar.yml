@@ -1,0 +1,16 @@
+id: actually-harvest
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/sUbuUC7R/versions/tIz9bIgx/actuallyharvest-26.2-fabric-1.1.7.6-FABRIC.jar
+  file_name: actuallyharvest-26.2-fabric-1.1.7.6-FABRIC.jar
+  file_size: 783101
+  version_id: tIz9bIgx
+  hashes:
+    sha1: '417b3120d33151fd1752d4f8262785a82a13d077'
+    sha512: a0901dbffc36b6ffe00be333c27471eecd5754f1c75236268349a445a86204bcf5d8af7123c0f8523ad556695276e466be3348693c04fcaea8c927bcb2edfbeb

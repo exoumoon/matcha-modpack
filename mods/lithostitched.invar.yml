@@ -1,0 +1,16 @@
+id: lithostitched
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/XaDC71GB/versions/3MjBSbla/lithostitched-1.8.0%2Bbeta6-fabric-26.2.jar
+  file_name: lithostitched-1.8.0+beta6-fabric-26.2.jar
+  file_size: 1015493
+  version_id: '3MjBSbla'
+  hashes:
+    sha1: a6e14ab2be5e55004a0abe0a104d5aad409c14d5
+    sha512: '863ea8d2b07d0415c498679c68237228512cca2ac36b5ea57f8834b7ead5f40383f004a0ce251d037cfb7b81aa727a469e6ad1c3ea807a6ce8c77bfbdbfcf93e'

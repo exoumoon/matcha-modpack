@@ -1,0 +1,16 @@
+id: reliable-replacer
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/swDAEYpN/versions/JfG28hlo/reliable_replacer-fabric-26.2-1.5.5.jar
+  file_name: reliable_replacer-fabric-26.2-1.5.5.jar
+  file_size: 131824
+  version_id: JfG28hlo
+  hashes:
+    sha1: '5098a1696beee0f0ddd02b0c5ee3161a227ec17e'
+    sha512: d1548ca7dc726c74b55f8b2dd744f406d6479f2f890daf2a8cd1a4515090d90267b605fc3745db02775fe3bf6b5ccd84ea48a90e4363744907c8321d2c38853f

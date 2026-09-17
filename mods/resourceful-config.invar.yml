@@ -1,0 +1,16 @@
+id: resourceful-config
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/M1953qlQ/versions/RqoPv70U/ResourcefulConfig-5.0.0.jar
+  file_name: ResourcefulConfig-5.0.0.jar
+  file_size: 443979
+  version_id: RqoPv70U
+  hashes:
+    sha1: e605b530843171786da8f837b4fae728b4d8fb07
+    sha512: c9834fbcb557d6f96b99ccafc69346f8da3887cdc4e26f780f9f4fe1c712071bab2e97362ecf69cd308aaafa76ea3cb98e7bee35b61d94addae2797788156457

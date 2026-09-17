@@ -1,0 +1,16 @@
+id: cave-dust-rethinking
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/7pdlDpFR/versions/vUjjUDVb/cave_dust-3.3.0%2B26.2-fabric.jar
+  file_name: cave_dust-3.3.0+26.2-fabric.jar
+  file_size: 134316
+  version_id: vUjjUDVb
+  hashes:
+    sha1: '42d6fea1267419fbb776d441bdb8b84bf3974483'
+    sha512: '577c597366ed7a716b5753c61573415fad34fe3d45ff37e4124869754d7fab42134c0e4d1e331095f2dc1499df3b3d6b01a568292dd2e44f95c000a846ccda88'

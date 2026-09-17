@@ -1,0 +1,16 @@
+id: armor-quick-swap
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/YxCEfYbF/versions/Qv0E8c8T/ArmorQuickSwap-v26.2.0-mc26.2.x-Fabric.jar
+  file_name: ArmorQuickSwap-v26.2.0-mc26.2.x-Fabric.jar
+  file_size: 31696
+  version_id: Qv0E8c8T
+  hashes:
+    sha1: cc475c68d9be1649091c5c6d0708dd184ff72e48
+    sha512: '834099225600d3c4a16f37f6e0b2cdec220954e414c187def6195159aa76a268525ea62c378676943b130969c6ee98649fb55048085a3e74afba9035bbfaf724'

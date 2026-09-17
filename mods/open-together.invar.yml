@@ -1,0 +1,16 @@
+id: open-together
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/ssyvO6WG/versions/gIr9IIe3/OpenTogether-v26.2.0-mc26.2.x-Fabric.jar
+  file_name: OpenTogether-v26.2.0-mc26.2.x-Fabric.jar
+  file_size: 51904
+  version_id: gIr9IIe3
+  hashes:
+    sha1: '5201c4553523bbb5a7061a3b2a29b3853ba872c6'
+    sha512: d0c14d1c0c00542c298e6b2161813516ce654ef4e957adbf63f9501cebbd8a8efe303ae7361ec742bcce5ca7d1ed7b9aad0a94c9c4ba97871a2d5b78622f4881

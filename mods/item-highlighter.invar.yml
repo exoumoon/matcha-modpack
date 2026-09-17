@@ -1,0 +1,16 @@
+id: item-highlighter
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/cVNW5lr6/versions/78JHXSNE/Highlighter-26.2-fabric-1.2.2.jar
+  file_name: Highlighter-26.2-fabric-1.2.2.jar
+  file_size: 29420
+  version_id: '78JHXSNE'
+  hashes:
+    sha1: '84c461f1f33db4df9abd8a4ffbd5b400e3ed52d8'
+    sha512: '27d78f89618204d01526f64e75cdd34341b3df0b30ea8f688105d119405a8dc0e5118ae55c1c541831050446c5604db91e4eed49a47bf0e494a049e0be02889b'

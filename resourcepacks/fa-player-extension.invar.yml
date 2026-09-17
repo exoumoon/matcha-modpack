@@ -1,0 +1,16 @@
+id: fa-player-extension
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/TAIMVZCL/versions/Wj7NeGjP/FA%2BPlayer-v1.1.zip
+  file_name: FA+Player-v1.1.zip
+  file_size: 110203
+  version_id: Wj7NeGjP
+  hashes:
+    sha1: '122e397af111e3dc5fb6b60004aad9464980f13a'
+    sha512: d2a5c46ae53e4bb6355604a1ade253ab49f1deb205f5ee69085014965241d3c9623204951ab174a5dbdaf24d9b25ecae9a1638cc6a13d780b398a6d70d157a4e

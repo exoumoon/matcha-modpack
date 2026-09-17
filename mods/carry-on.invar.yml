@@ -1,0 +1,16 @@
+id: carry-on
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/joEfVgkn/versions/EzG8eAml/carryon-fabric-26.2-2.11.0.jar
+  file_name: carryon-fabric-26.2-2.11.0.jar
+  file_size: 379654
+  version_id: EzG8eAml
+  hashes:
+    sha1: fc9daa0278cf8fa12dbe59e56b54554596bc0b5a
+    sha512: '44169b4f1157ad47b9ceee02e37b907e018f2b14989027b3bd18892677ebf577a9f82982912e4e668e757fce3d808bc5e410e36b862520f939133e5dd155cc41'

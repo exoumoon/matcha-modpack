@@ -1,0 +1,16 @@
+id: lithosphere
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/iv9jp2k9/versions/aatZx6pq/lithosphere-1.8.2.jar
+  file_name: lithosphere-1.8.2.jar
+  file_size: 984074
+  version_id: aatZx6pq
+  hashes:
+    sha1: '1a81d09d9ab376f80b77619a8ed7d2439cc3890d'
+    sha512: a921f44c23ad32b3d295efa5e91425b06940cfec51cfb0263a288de889a1c09439f631dbed01c3d2ffeb6d56f1c52ebc1d5d8418e280330c36bf43773535f143

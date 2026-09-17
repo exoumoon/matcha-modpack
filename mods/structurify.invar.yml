@@ -1,0 +1,16 @@
+id: structurify
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/yz7AM2zx/versions/tIopeTJr/structurify-fabric-2.0.38%2Bmc26.2.jar
+  file_name: structurify-fabric-2.0.38+mc26.2.jar
+  file_size: 534471
+  version_id: tIopeTJr
+  hashes:
+    sha1: '3f581b5cf9cd5b23cb1d5b22628e9f5bb77a708e'
+    sha512: b58ed364d869c3c5aa220fddc7a108190f3cd59279a1b41e80cdbe079cc0fcadcb01e08a9a2de138d841c45424ccf775b25ae27454226cd2d4a4411b3f3e90c9

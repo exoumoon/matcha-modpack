@@ -1,0 +1,16 @@
+id: biome-dither
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/xlybdB0E/versions/itM5NwYS/puffish_biome_dither-1.0.0-26.2-fabric.jar
+  file_name: puffish_biome_dither-1.0.0-26.2-fabric.jar
+  file_size: 4093
+  version_id: itM5NwYS
+  hashes:
+    sha1: '640215e3337eb62d4f6f39a77bbbc5c26eb19bb5'
+    sha512: '74e08ad92fbd4c972a91251a14caacaab8d70ba6ac99edf3f952602e26dad70cf75b1a6e4644eff45b0f606dd537492f4533fc61b1b6c9cb93fda19584da1028'

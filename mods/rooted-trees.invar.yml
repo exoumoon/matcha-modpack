@@ -1,0 +1,16 @@
+id: rooted-trees
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/ZaE5PJWo/versions/5jQBRrYB/rooted-trees-1.1.0.jar
+  file_name: rooted-trees-1.1.0.jar
+  file_size: 1629631
+  version_id: '5jQBRrYB'
+  hashes:
+    sha1: '9af95f8c8feeb306743c84c898ed950af2ec8ed2'
+    sha512: de3e7581cce8036cd04f55d0930bc6a9399be4c2deb2a6c7debee719ef3c11bfe6a945b642d0e5821f1c175dc6f2a72d268e141a2a7a3cc337926b56bc862fab

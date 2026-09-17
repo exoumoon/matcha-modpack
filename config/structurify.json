@@ -1,0 +1,59 @@
+{
+	"config_version": "2.0.38",
+	"config_datetime": "2026-09-18_01-06-10",
+	"general": {},
+	"structure_namespaces": [
+		{
+			"name": "global",
+			"enable_flatness_check": true
+		}
+	],
+	"structures": [
+		{
+			"name": "minecraft:ocean_ruin_cold",
+			"is_disabled": true
+		},
+		{
+			"name": "minecraft:ocean_ruin_warm",
+			"is_disabled": true
+		},
+		{
+			"name": "minecraft:ruined_portal",
+			"is_disabled": true
+		},
+		{
+			"name": "minecraft:ruined_portal_desert",
+			"is_disabled": true
+		},
+		{
+			"name": "minecraft:ruined_portal_jungle",
+			"is_disabled": true
+		},
+		{
+			"name": "minecraft:ruined_portal_mountain",
+			"is_disabled": true
+		},
+		{
+			"name": "minecraft:ruined_portal_nether",
+			"is_disabled": true
+		},
+		{
+			"name": "minecraft:ruined_portal_ocean",
+			"is_disabled": true
+		},
+		{
+			"name": "minecraft:ruined_portal_swamp",
+			"is_disabled": true
+		},
+		{
+			"name": "minecraft:shipwreck",
+			"is_disabled": true
+		},
+		{
+			"name": "minecraft:shipwreck_beached",
+			"is_disabled": true
+		}
+	],
+	"structure_sets": [],
+	"structure_template_pools": []
+}

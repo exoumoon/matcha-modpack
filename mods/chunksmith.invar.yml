@@ -1,0 +1,16 @@
+id: chunksmith
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/4BeAEBIb/versions/7F4PcCmS/chunksmith-3.17.0%2B26.2.jar
+  file_name: chunksmith-3.17.0+26.2.jar
+  file_size: 633234
+  version_id: '7F4PcCmS'
+  hashes:
+    sha1: '23dbe58d5f92abfd3e5016185e25464dab0d12e3'
+    sha512: d92183ff5f1cb20f74d02ebfc4eeab314c2abd570db066151ba903602d662697cee8bda6907e901aaecbba6b1d0c38caf5317c778bf469ff7b5d1809732ff677

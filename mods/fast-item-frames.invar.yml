@@ -1,0 +1,16 @@
+id: fast-item-frames
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/FsoeTIV0/versions/nPlbZt37/FastItemFrames-v26.2.1-mc26.2.x-Fabric.jar
+  file_name: FastItemFrames-v26.2.1-mc26.2.x-Fabric.jar
+  file_size: 100440
+  version_id: nPlbZt37
+  hashes:
+    sha1: '34370d3258f59d199891dbb2ef925bc7c8733066'
+    sha512: '9b6a85ddc3593e9fae18d63ce907d3a601f5c094bed02f9e26b452189d618b968f3b3d06f27a508b255cdd555bef26100c303dfeb251b70ae7965a12d6e0df4e'

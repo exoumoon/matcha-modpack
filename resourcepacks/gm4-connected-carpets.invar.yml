@@ -1,0 +1,16 @@
+id: gm4-connected-carpets
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/euod5aTI/versions/JLSkHLv7/Connected%20Carpets.zip
+  file_name: Connected Carpets.zip
+  file_size: 41508
+  version_id: JLSkHLv7
+  hashes:
+    sha1: e523919cac3883540bdc82927ae000fb15a2f825
+    sha512: '7f008fc6fe4e5373e71b574598b3dee84518e0e814f1aaabf1d66e4835de28d9324cd08e068023eeb294454580ffa9238276f79f47900d990b75c755e7ca720c'

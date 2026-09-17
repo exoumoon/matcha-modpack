@@ -1,0 +1,16 @@
+id: large-ore-deposits
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Y3a9lWnU/versions/sVvMPF4Z/adlods-26.2.0.2-fabric-build.0134.jar
+  file_name: adlods-26.2.0.2-fabric-build.0134.jar
+  file_size: 248414
+  version_id: sVvMPF4Z
+  hashes:
+    sha1: '9433f09107550f6f92c1857db87fae80c8ed6357'
+    sha512: '9d6c5cfe7b638ecfd7733ac0b9aa8a4f4ccd3830250b9073bbc8c3834795fd03e7c607dc1c47042e202a5510e408b6f5aa057e9dc5abae9d2ca58a8eec9e11fd'

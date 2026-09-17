@@ -1,0 +1,16 @@
+id: dungeons-and-taverns-mineshaft-overhaul
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/ozLFhOy3/versions/7zo1nTm8/dungeons-and-taverns-mineshaft-overhaul-1.1.jar
+  file_name: dungeons-and-taverns-mineshaft-overhaul-1.1.jar
+  file_size: 1287861
+  version_id: '7zo1nTm8'
+  hashes:
+    sha1: cdf64d33865b8e4abdf706e0a7e3ba9aa5fcf049
+    sha512: '0cb7f7dd1a43d406232b6f4e154d4c70611b316c4909da1e8b3a223f27a7d2d348abd7000fa45e1fcf8f76568a122dda6ea3d5a7716881ab6fcf6befc76dfa46'

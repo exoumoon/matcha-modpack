@@ -1,0 +1,16 @@
+id: bundle-upgrade
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/4GmQWkZz/versions/7ybcuHGt/BundleUpgrade-v26.2.2-mc26.2.x-Fabric.jar
+  file_name: BundleUpgrade-v26.2.2-mc26.2.x-Fabric.jar
+  file_size: 188876
+  version_id: '7ybcuHGt'
+  hashes:
+    sha1: '7877618228130be4de89f57f3dcc46c2f2b6a708'
+    sha512: a203e1ad150247f619a80007f08006e8d5ac061cd41f66559804e97dfd744caab6abc6d4098fe954605189c0926410a6eafe12cada537f4a0cc2efb3ece42d1c

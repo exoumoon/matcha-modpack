@@ -1,0 +1,16 @@
+id: iceberg
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/5faXoLqX/versions/V5RnWL87/Iceberg-26.2-fabric-1.4.2.1.jar
+  file_name: Iceberg-26.2-fabric-1.4.2.1.jar
+  file_size: 360080
+  version_id: V5RnWL87
+  hashes:
+    sha1: '678cfcb85dd765dbc0f8fa368cb3f5d7cbfc315a'
+    sha512: '72f4ea2c1e283dba332ebb79395f5a0af2e42d87eba66ea04ff568c2581de2d5321e144ee6f10a222a361f62e6a0acc289ffc380651f42cb5544afb3787fe904'

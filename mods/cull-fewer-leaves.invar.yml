@@ -1,0 +1,16 @@
+id: cull-fewer-leaves
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/alhWWxax/versions/jIEsEM7M/cull-fewer-leaves-1.1.2%2B26.1-fabric.jar
+  file_name: cull-fewer-leaves-1.1.2+26.1-fabric.jar
+  file_size: 409798
+  version_id: jIEsEM7M
+  hashes:
+    sha1: '0b603a240e2b1f424ef37562ebbe830b07008b30'
+    sha512: '80e1763a3e0f2746aaa27da4d20837f62f5bea22fff326a6b7cecff43923ba1de91c6c5d4d8e5125bc263f35464cc858b556aa8ce8f1118e612677341d96d5d2'

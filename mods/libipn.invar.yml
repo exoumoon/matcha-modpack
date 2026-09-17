@@ -1,0 +1,16 @@
+id: libipn
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/onSQdWhM/versions/SkvWSBFK/libIPN-fabric-26.2-6.8.3.jar
+  file_name: libIPN-fabric-26.2-6.8.3.jar
+  file_size: 637800
+  version_id: SkvWSBFK
+  hashes:
+    sha1: '356e9327929c8559f48cd151bbe7ece38d83d82a'
+    sha512: bd4bd3c3c3c4d98932fa526dc42cc7071bab3717849a3a1de808e6ef1ad3b2f3f24f201854c2485bec3b31dece24d190441d0f7db32e81216cddf005ec474fb6

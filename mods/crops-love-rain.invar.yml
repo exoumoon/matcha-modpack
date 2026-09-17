@@ -1,0 +1,16 @@
+id: crops-love-rain
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/cRci7UZp/versions/YzNJMQVQ/cropsloverain-3.2.1.jar
+  file_name: cropsloverain-3.2.1.jar
+  file_size: 34251
+  version_id: YzNJMQVQ
+  hashes:
+    sha1: '2c3f5e1a56e638d0e3e5e9917d4efa9ae49a35bb'
+    sha512: e898a09072a7cd4cf2c8c2b4dbe14dde4811de68bbbdf3879ddb08cddf8233ed0fc5248a543d665b95107e6a94c64ef27c2a3762bbd84f305d380f84c1dae732

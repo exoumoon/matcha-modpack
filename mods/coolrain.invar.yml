@@ -1,0 +1,16 @@
+id: coolrain
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/iDyqnQLT/versions/zc88gNk3/coolrain-1.4.0-26.2.jar
+  file_name: coolrain-1.4.0-26.2.jar
+  file_size: 4139861
+  version_id: zc88gNk3
+  hashes:
+    sha1: afa1d97a1b942148b300ce8f1e668cd357bdebb6
+    sha512: '02c709c3a6983f38cc5b4fca92b238ebf61c5f5c1c4ae86458905f8e2d2e7064a83786db22d8fb97162ecf3e0646d896e4d6060f77f6356427bb44e17a97f6c5'

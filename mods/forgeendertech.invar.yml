@@ -1,0 +1,16 @@
+id: forgeendertech
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/EgS8gGp8/versions/QNHAtAr4/forgeendertech-26.2.0.1-fabric-build.0084.jar
+  file_name: forgeendertech-26.2.0.1-fabric-build.0084.jar
+  file_size: 632746
+  version_id: QNHAtAr4
+  hashes:
+    sha1: '1633806deb544d842ed403d130367e69cb6964d7'
+    sha512: '41f9ea61b4d7bcf25f9c0820b35d997c574ddf943720cf32017ea5b218ab2f7ce29d89627c5b482240326fcbf356eebd533ff377dae5ccac7b2106e7897b5346'

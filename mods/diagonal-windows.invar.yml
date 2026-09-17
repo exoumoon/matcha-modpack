@@ -1,0 +1,16 @@
+id: diagonal-windows
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/oOi0CKes/versions/6dcXwYY3/DiagonalWindows-v26.2.0-mc26.2.x-Fabric.jar
+  file_name: DiagonalWindows-v26.2.0-mc26.2.x-Fabric.jar
+  file_size: 127291
+  version_id: '6dcXwYY3'
+  hashes:
+    sha1: '44d0a7c7f2e3234b2b944a1bc8f246a114361201'
+    sha512: e3fc69c648f3d3968e3fc168369d03e0b425445cba9ec2aa61318c46f88be6df111450a90e51b5d45889dffcf6e5281546d2282c5e36710c918d37875cf51161

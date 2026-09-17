@@ -1,0 +1,16 @@
+id: snow-under-trees
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Q3vyMuj2/versions/ubJYO77l/snowundertrees-fabric-26.1.2-1.6.1.jar
+  file_name: snowundertrees-fabric-26.1.2-1.6.1.jar
+  file_size: 251934
+  version_id: ubJYO77l
+  hashes:
+    sha1: '78d3b1c7252eadc01a3e58e5710252f6653ed510'
+    sha512: '88b3ebd17b1844dc7586921bf1b9fc09e6d904f4f35bee3cc4690a42696207c665a7a4e8a2db2609a5a717f1807dee85c3d0443b03b0acaa9318a31c75d0066c'

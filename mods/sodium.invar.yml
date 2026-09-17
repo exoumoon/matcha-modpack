@@ -7,10 +7,10 @@ environment:
   client: required
   server: unsupported
 source: !Remote
-  download_url: https://cdn.modrinth.com/data/AANobbMI/versions/a9YZH3ip/sodium-fabric-0.9.2-alpha.4%2Bmc26.2.jar
-  file_name: sodium-fabric-0.9.2-alpha.4+mc26.2.jar
-  file_size: 1880490
-  version_id: a9YZH3ip
+  download_url: https://cdn.modrinth.com/data/AANobbMI/versions/xJZxADzI/sodium-fabric-0.9.2%2Bmc26.2.jar
+  file_name: sodium-fabric-0.9.2+mc26.2.jar
+  file_size: 1885572
+  version_id: xJZxADzI
   hashes:
-    sha1: '795ab0a8dce0c19c4f21089fd521c112d1749143'
-    sha512: '2c7a548616e6a9ecc9a0aaeb3f192bf75be424fa965e7ac248e958535330ccee8059026cc3bab9fc481e09055446d684bc07c57bc82f91fb966a52d7142be472'
+    sha1: '62a70961a5b3e06938e06ab5f2dc4c5a51cf3323'
+    sha512: '9b7a7aade8824543ce2a804fddfd04e37f57d1f91c00574e7dc87e554eb1835d888313ee6f715a7599bd729840cf01fd74e02aeae87b4e5a3c10c34a016e407c'

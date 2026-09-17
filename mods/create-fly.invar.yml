@@ -1,0 +1,16 @@
+id: create-fly
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/dKvj0eNn/versions/phlsMPgT/create-fly-26.2-rc-2-6.0.9-1.jar
+  file_name: create-fly-26.2-rc-2-6.0.9-1.jar
+  file_size: 21412089
+  version_id: phlsMPgT
+  hashes:
+    sha1: fe6f561de7d3b13e384dce6482760f766cb00cc0
+    sha512: '2879187dcb1aa494710b71e4d967ac8f12d38e5f4b800652d38c484c1db3a38a72bf624e8dc0b53a457ccdf62f479c3264e1d5cbb2418e23da42bdce9c738f54'

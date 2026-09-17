@@ -1,0 +1,16 @@
+id: inventory-particles
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/XYnKrsxH/versions/ll9yicH2/InventoryParticles-3.1.0%2B26.2%2Bfabric.jar
+  file_name: InventoryParticles-3.1.0+26.2+fabric.jar
+  file_size: 1797405
+  version_id: ll9yicH2
+  hashes:
+    sha1: b5ce2722f839eaa07201b8f077b53e5c68afa239
+    sha512: dc3df01acca585f9409a6d402e1473a1e2ebd45154a185433f8db8dfac3d4aa8684731b4dc0415fc85463e108d75f85c1420a03f56e24a1ce9f6bea411a284dc

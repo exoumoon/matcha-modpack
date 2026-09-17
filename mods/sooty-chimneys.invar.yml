@@ -1,0 +1,16 @@
+id: sooty-chimneys
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/b3w1XM9H/versions/vlLaEG7o/sootychimneys-fabric-26.2-1.3.5.jar
+  file_name: sootychimneys-fabric-26.2-1.3.5.jar
+  file_size: 175758
+  version_id: vlLaEG7o
+  hashes:
+    sha1: '4a39cbb2ae82a66ce0b5603be4d30bf9ba5c3d43'
+    sha512: '4c4468cabb33601c62b2a05d384fcac9db9fba25762503a2562520e574dea98157f7fdbb34dd87d553fe99efbe22be45212abad242363a8aaa283a7124e6ae6e'

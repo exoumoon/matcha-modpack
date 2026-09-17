@@ -1,0 +1,16 @@
+id: simple-music-control
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/8AX2hHnX/versions/DW7v7BoN/simple_music_control-fabric-1.5.2%2B26.2.jar
+  file_name: simple_music_control-fabric-1.5.2+26.2.jar
+  file_size: 249960
+  version_id: DW7v7BoN
+  hashes:
+    sha1: '73a21803ee61cad472a68f1668c24733b32de708'
+    sha512: '952ee71d6e2874c0b6bb07f5b616075b4a124439efbab282754369fe9308c187f29af121ebdd96555db75b7f6092d89736fb9d82d80a73d0e93e3b3914833fe4'

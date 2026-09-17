@@ -1,0 +1,16 @@
+id: mossylib
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/ffLDUGbm/versions/AMj4XA2a/MossyLib-1.5.0%2B26.2%2Bfabric.jar
+  file_name: MossyLib-1.5.0+26.2+fabric.jar
+  file_size: 186400
+  version_id: AMj4XA2a
+  hashes:
+    sha1: '5890f3b4d8172c4c31ccd198802ef9950953420f'
+    sha512: '927b72714e6da152fe089ab2dd67ef54649c2c3cbf8ed3b7298e6103f23d2810dcb4067f7adf09bda36486914d6346299314ba525dd0cebb07fc8294f69656ae'

@@ -1,0 +1,16 @@
+id: smooth-swapping
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/ydZic5r4/versions/aUhMczfZ/smoothswapping-0.9.10-26.2-fabric.jar
+  file_name: smoothswapping-0.9.10-26.2-fabric.jar
+  file_size: 67601
+  version_id: aUhMczfZ
+  hashes:
+    sha1: a7c74a3659624580dd0423ac5d91129f2844912a
+    sha512: '7296022c5594232acb38b1985affd3f07970cbca0e4e2ab2458468ca1166ab094d94cb48b3fba2a6c09b2decd4ff3b85793aa45dea2f2742a6a3dffe2e1c9391'

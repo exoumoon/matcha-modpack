@@ -1,7 +1,7 @@
 services:
   server:
     hostname: matcha-flavoured
-    image: itzg/minecraft-server:java25
+    image: itzg/minecraft-server:java25-alpine
     container_name: matcha-flavoured
 
     network_mode: host
@@ -16,7 +16,7 @@ services:
       RCON_CMDS_FIRST_CONNECT: |
         /whitelist off
         /op mxxntype
-      MEMORY: '16G'
+      MEMORY: '8G'
       ENABLE_AUTOPAUSE: false
       TYPE: MODRINTH
       MOTD: invar-server/0.7.0 | matcha-flavoured | 26.2
@@ -27,13 +27,27 @@ services:
       VIEW_DISTANCE: 12
       MAX_PLAYERS: 8
       MODE: survival
-      REMOVE_OLD_DATAPACKS: true
-    restart: unless-stopped
+      # SEED: 0
+      # SEED: 7                    # (lithosphere+clifftree) large landmass @ spawn, most explored
+      # SEED: -3144770686440785689 # (lithosphere+clifftree) ~2k block wide island @ spawn, large ocean
+      # SEED: 8582461431460267422  # (lithosphere+clifftree) lots of islands too choose from
+
+      RCON_CMDS_STARTUP:  |-
+        cs center 0 0
+        cs shape circle
+        cs radius 512
+        cs start minecraft:overworld
+        cs confirm
+    restart: no
     volumes:
     - source: server
       target: /data
       type: bind
     - source: export/matcha-flavoured-latest.mrpack
       target: /data/modpack.mrpack
+      type: bind
+      read_only: true
+    - source: assets/pack.png
+      target: /pack.png
       type: bind
       read_only: true

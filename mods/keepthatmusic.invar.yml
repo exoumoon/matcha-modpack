@@ -1,0 +1,16 @@
+id: keepthatmusic
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/5ybsVotd/versions/KLMryXAj/keepthatmusic-1.0.1%2B26.2.jar
+  file_name: keepthatmusic-1.0.1+26.2.jar
+  file_size: 22290
+  version_id: KLMryXAj
+  hashes:
+    sha1: '2830abaca05c11c58a1dd043ac53f74f36fd9e5e'
+    sha512: '5db4325023daa544d6eec2f5c53b0fde5647aef2fe5d7aab578cfa67cc7a13df816e28912c522f0cd63ae0dc8e1e828a25471daea31e336aebebe7bfda2abe3a'

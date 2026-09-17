@@ -1,0 +1,16 @@
+id: better-lava-lakes
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/q6ZQe2m9/versions/TAV1yc1m/better-lava-lakes-1.0.0%2Bmc26.2.jar
+  file_name: better-lava-lakes-1.0.0+mc26.2.jar
+  file_size: 270163
+  version_id: TAV1yc1m
+  hashes:
+    sha1: a2a2e52e1f0e6c14445ba5e351053fad09593bfb
+    sha512: '119fc4ae0af508b6d3a5da4416cda2d4d1ea0a38a0422c98a2fd58660c7f431f1a58e684c627f78e2db78fc41ace741882314f9f1747756e3753ca18859b68b0'

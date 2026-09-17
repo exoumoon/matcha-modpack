@@ -1,0 +1,16 @@
+id: effect-insights
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Kw73iLDq/versions/NTeX5sLz/EffectInsights-v26.2.2-mc26.2.x-Fabric.jar
+  file_name: EffectInsights-v26.2.2-mc26.2.x-Fabric.jar
+  file_size: 137101
+  version_id: NTeX5sLz
+  hashes:
+    sha1: a316697948ef69b8d477e2a159193d126ce89b01
+    sha512: '6ff03aca32026a14b1582837a96d5acceb6d1048e724e8efc27022b7e28b90261e0cc7d3e84247c28f0a053f2664ab4727c7b8a946933f3bc53a116f37694aa0'

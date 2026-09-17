@@ -1,0 +1,68 @@
+[
+	{
+		"inputs": ["minecraft:dirt_path"],
+		"outputs": ["minecraft:dirt", "minecraft:rooted_dirt", "minecraft:podzol"],
+		"biomes": [
+			"minecraft:plains",
+			"minecraft:birch_forest",
+			"minecraft:old_growth_birch_forest"
+		],
+		"player_blocks": false
+	},
+
+	{
+		"inputs": ["terrain_slabs:path_slab"],
+		"outputs": [
+			"terrain_slabs:dirt_slab",
+			"terrain_slabs:rooted_dirt_slab",
+			"terrain_slabs:podzol_slab"
+		],
+		"biomes": [
+			"minecraft:plains",
+			"minecraft:birch_forest",
+			"minecraft:old_growth_birch_forest"
+		],
+		"player_blocks": false
+	},
+
+	{
+		"inputs": ["minecraft:sunflower"],
+		"state_properties": {
+			"half": "lower"
+		},
+		"output": "minecraft:tall_grass",
+		"output_state_properties": {
+			"half": "lower"
+		},
+		"additional_blocks": [
+			{
+				"output": "minecraft:tall_grass",
+				"x_offset": 0,
+				"y_offset": 1,
+				"z_offset": 0,
+				"output_state_properties": {
+					"half": "upper"
+				}
+			}
+		],
+		"biomes": ["minecraft:plains", "minecraft:birch_forest"],
+		"player_blocks": false
+	},
+
+	{
+		"inputs": ["minecraft:sunflower"],
+		"state_properties": {
+			"half": "upper"
+		},
+		"remove": true,
+		"biomes": ["minecraft:plains", "minecraft:birch_forest"],
+		"player_blocks": false
+	},
+
+	{
+		"inputs": ["minecraft:wheat", "minecraft:hay_block"],
+		"remove": true,
+		"biomes": ["minecraft:plains", "minecraft:birch_forest"],
+		"player_blocks": false
+	}
+]

@@ -1,0 +1,16 @@
+id: biome-replacer
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/DAXbR0Wj/versions/RFvpvuiP/biomereplacer-3.1-newt-fabric.jar
+  file_name: biomereplacer-3.1-newt-fabric.jar
+  file_size: 148602
+  version_id: RFvpvuiP
+  hashes:
+    sha1: '4c92d2cde4c80d0bdef7dd06fdc80300afd1f94b'
+    sha512: ec216b9d9d8f8d0841be4bf809cdb3cfc8409e4d694856b30b194590821a4eed55b7ec134b19bb97f503e9675bbbb728315688a2ffcd64b97ee5236ed651e1a1

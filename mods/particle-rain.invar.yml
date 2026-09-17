@@ -1,0 +1,16 @@
+id: particle-rain
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/nrikgvxm/versions/oPqk9oQ8/particlerain-4.0.0-beta.11%2B26.2-fabric.jar
+  file_name: particlerain-4.0.0-beta.11+26.2-fabric.jar
+  file_size: 621659
+  version_id: oPqk9oQ8
+  hashes:
+    sha1: b8f3decf1814f5427e9f908fb91e95dc0d647ea9
+    sha512: '29035d0795bd5c37f681353c4054341f569065379b9859055bb7e4ca4ef42595c6a58a3600febcd529a4af46bbaf689985d4f3ca150eb4fe7c965c0f6c68107f'

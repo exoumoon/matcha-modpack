@@ -1,0 +1,16 @@
+id: better-advancements
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Q2OqKxDG/versions/8xsHNtMk/BetterAdvancements-Fabric-26.2-0.6.0.72.jar
+  file_name: BetterAdvancements-Fabric-26.2-0.6.0.72.jar
+  file_size: 105167
+  version_id: '8xsHNtMk'
+  hashes:
+    sha1: '886540a5358ccccda9bbd7e6487717f32b492536'
+    sha512: '5073a4322ad7655ea54533060e6661c2cc5df161d97f63860ec8ffcf57423e1df432049b3d40f9f84d2e77bb7e3928e6218ed808d3243ef30b1f3fa5ebf38560'

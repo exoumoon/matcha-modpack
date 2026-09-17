@@ -1,0 +1,16 @@
+id: o123456789-backport
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/KZ2nVYZL/versions/l4fkyKjL/o123456789-fabric-26.1.2-1.0.1.jar
+  file_name: o123456789-fabric-26.1.2-1.0.1.jar
+  file_size: 35369
+  version_id: l4fkyKjL
+  hashes:
+    sha1: ff3c7d0f8cdf0fe2c593a7d1f57e91d677ac7d58
+    sha512: caaf681b2b33dc67c6bd1303544e846f136cb470ad06f7c7bb2a373c383ea6a7e94066d83d2ce139a88e6f03d5faf3769a7739d6d3fc0499d72a43dc77eb7137

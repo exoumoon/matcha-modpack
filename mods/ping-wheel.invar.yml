@@ -1,0 +1,16 @@
+id: ping-wheel
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/QQXAdCzh/versions/lsH1el9E/Ping-Wheel-1.12.1-fabric-26.2.jar
+  file_name: Ping-Wheel-1.12.1-fabric-26.2.jar
+  file_size: 154144
+  version_id: lsH1el9E
+  hashes:
+    sha1: cb74bc08f38daf49ee283fdd998ce935ee97c192
+    sha512: '4fd3287f67221267a39b94cc53476ee32e0c914b36b0a729bddc481f5313c30e84f4b1549dc5c26bb1deea5914d890594f8e351d2c05b40a078c013c3cbf4c7b'

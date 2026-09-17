@@ -1,0 +1,16 @@
+id: animal_feeding_trough
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/bRFWnJ87/versions/HIUVmKsY/animal_feeding_trough-1.2.1%2B26.2.jar
+  file_name: animal_feeding_trough-1.2.1+26.2.jar
+  file_size: 274232
+  version_id: HIUVmKsY
+  hashes:
+    sha1: '726a59744768847c05000c98486b4cc74e672bc9'
+    sha512: '2b03e67980d5bdcebcb0a736e290286a30643b0b3e6ddcd6d96c850bf370f26ebdd721ff9e45a5bf3fc19899fe374a89a09c485feefda2920b8a2a5a125de463'

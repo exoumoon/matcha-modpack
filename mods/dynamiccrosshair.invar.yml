@@ -1,0 +1,16 @@
+id: dynamiccrosshair
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/ZcR9weSm/versions/JGy4NTx0/dynamiccrosshair-9.14%2B26.2-fabric.jar
+  file_name: dynamiccrosshair-9.14+26.2-fabric.jar
+  file_size: 536169
+  version_id: JGy4NTx0
+  hashes:
+    sha1: f06694a1d21e0c19f2cf03156df82656bd59db91
+    sha512: '23d0ef2cf46b1c2c2d82b6551abd9641c72925e8598dc12f67e18a73384282a04cf4265e4a1ae07f7f786c3fbf60b80608ee76261dae985634502289e98bdc3a'

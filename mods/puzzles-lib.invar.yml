@@ -1,0 +1,16 @@
+id: puzzles-lib
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/QAGBst4M/versions/KU5rZUAR/PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar
+  file_name: PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar
+  file_size: 1145463
+  version_id: KU5rZUAR
+  hashes:
+    sha1: '65381561284b83e8d6b0fb316ed44a7e60b543f5'
+    sha512: '3d5c0fa58f75f3cd345bc48a08a783890aab8ef01d1be113088138dda1bf79030a782dd267688c07cc2ea7a7d09710d50797416fc2292c58004cc6ff27c791bd'

@@ -7,10 +7,10 @@ environment:
   client: required
   server: required
 source: !Remote
-  download_url: https://cdn.modrinth.com/data/9LKX5H57/versions/DDaaVjeR/matcha-flavoured-fabric-1.1.2-r.4%2Bmc26.2.jar
-  file_name: matcha-flavoured-fabric-1.1.2-r.4+mc26.2.jar
-  file_size: 10838677
-  version_id: DDaaVjeR
+  download_url: https://cdn.modrinth.com/data/9LKX5H57/versions/VZq0vZBr/matcha-flavoured-fabric-1.12.1-r.4%2Bmc26.2.jar
+  file_name: matcha-flavoured-fabric-1.12.1-r.4+mc26.2.jar
+  file_size: 18009193
+  version_id: VZq0vZBr
   hashes:
-    sha1: f3a7fb50807a9b7a9bf319ef6b202329ee910774
-    sha512: '3699565ad19e14eb98c4b8eb6950c99099120a30b2474b4a5302a1c54841cdd5bb40cd60af60990d32f25a2fb7f72ad162d0f9598efb9695993eaa01599e7439'
+    sha1: c72697c35cbbc7497a8bfa0de5a432dfb2205c9c
+    sha512: '3b82a30ab839aa0d26a19e9a81b42fbd1df0891c10e02d6ae700fa34a734edeeed9bb3e933296caa2317b898156a5afa7bd4739348d546ce98239a925f169833'

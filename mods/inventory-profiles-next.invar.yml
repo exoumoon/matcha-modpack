@@ -1,0 +1,16 @@
+id: inventory-profiles-next
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/O7RBXm3n/versions/SnUA305X/InventoryProfilesNext-fabric-26.2-2.3.7.jar
+  file_name: InventoryProfilesNext-fabric-26.2-2.3.7.jar
+  file_size: 1456192
+  version_id: SnUA305X
+  hashes:
+    sha1: fcffe506ef542841503971b9f7bf251f8f694f74
+    sha512: dafd5af4cbf50708ba58773dd3c0457afbb4f5b0367b95604627092ed3a1900b644502ddb84dc264c0d4645b15cfa3d81e1dcc72ffa3c32063028ec7eb517a16

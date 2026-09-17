@@ -1,0 +1,16 @@
+id: matcha-flavoured
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/QI0EmgZ1/versions/ENF2iwjo/Matcha_Flavoured_1_12_1.zip
+  file_name: matcha-flavoured-1.12.1.zip
+  file_size: 22863425
+  version_id: ENF2iwjo
+  hashes:
+    sha1: ebe897b72508191fa402abcd1d5759faa4a8ef88
+    sha512: '1e701fed4e3be3d002b6a3119da50aa77be59a35b2527bdc8bf110c7915bda24ea9333177d8b15b571406ff59df1a34dd74d156baa8de8382cf77c0aac3e00ce'

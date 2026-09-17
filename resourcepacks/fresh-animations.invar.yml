@@ -1,0 +1,16 @@
+id: fresh-animations
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/50dA9Sha/versions/RGIzA5em/FreshAnimations_v1.10.5.zip
+  file_name: FreshAnimations_v1.10.5.zip
+  file_size: 645816
+  version_id: RGIzA5em
+  hashes:
+    sha1: '0d069c5583d1dd4591e55ec5ff6dd0905f3f8615'
+    sha512: f4f2a1d294c2e0afe245b6987fea4a84ff120f131a7f2cfb16779e9cc5d0a00b3d49bf1585ac827d6690c36421e8dda203b0c6e642bb0c6aa067c5921dd8dc30

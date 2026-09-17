@@ -1,0 +1,16 @@
+id: placeable
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/fAK8ggGH/versions/W1XCEdNh/placeable-1.1.1%2Bmc26.1-26.2.jar
+  file_name: placeable-1.1.1+mc26.1-26.2.jar
+  file_size: 34015
+  version_id: W1XCEdNh
+  hashes:
+    sha1: '33cf7380c599435a29ee7904ccfb922d121d661a'
+    sha512: '627553fc499a8e2bfd22fb49f731e22ec30d03349377d767d33f1b1499d7b4b8a00b302223d5bd155036dd51ac8c654cd132c757b2930a31ad4ba18f779cffa0'

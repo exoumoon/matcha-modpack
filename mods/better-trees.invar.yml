@@ -1,0 +1,16 @@
+id: better-trees
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/cfXIpi12/versions/cxeCnM3T/better-trees-1.9.3.jar
+  file_name: better-trees-1.9.3.jar
+  file_size: 542874
+  version_id: cxeCnM3T
+  hashes:
+    sha1: '06275db9fe2c9a29a222473ad3079ba2b92a2f6f'
+    sha512: '2c7467e51c03e45aa000b3803844be8e1923fcdf9eb92b1930c2a7d04781a700c87794b60bfccc048ba884cd7bb9a4738538d688d4c8a993caf4544c0dd0ce05'

@@ -1,0 +1,16 @@
+id: better-click-sounds
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/XWQ6jMjk/versions/IgkvU58S/better_click_sounds_1.3.zip
+  file_name: better_click_sounds_1.3.zip
+  file_size: 6572
+  version_id: IgkvU58S
+  hashes:
+    sha1: c921a2cbbb7477f252b5ba8d404cfccfc180b332
+    sha512: f5ab1b8c97d92d8a2ce76d3a4654a886ddb663f7356896afe2513402b630642fe37b447e805482134104026460cf70b461c9cc60bdcedd75a3c8c2e732219a26

@@ -1,0 +1,16 @@
+id: punchy-fpa
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/8aoMKplv/versions/IgFIRWlA/punchy-2.7d-fabric-26.2.jar
+  file_name: punchy-2.7d-fabric-26.2.jar
+  file_size: 2058845
+  version_id: IgFIRWlA
+  hashes:
+    sha1: '51c63bbcd72f6410c90a223d4128e4a7e779f823'
+    sha512: '1fed3c7685e27a49a5c63fc8e21a3afc3c89196b165ec18dc45883182e726e6cb7911d59692ab4ea48ff70d532878ae4679f5066e733ee9354af48ee3e5eee7f'

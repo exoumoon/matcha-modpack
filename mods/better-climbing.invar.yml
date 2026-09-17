@@ -1,0 +1,16 @@
+id: better-climbing
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/ZucWZEBV/versions/dUxGZmcn/better_climbing-fabric-6.jar
+  file_name: better_climbing-fabric-6.jar
+  file_size: 7419
+  version_id: dUxGZmcn
+  hashes:
+    sha1: c8dedd82b1303cca947ddd52e97a8d2cab397374
+    sha512: '00a472345f6fedfab5b256b3694c629edf250062473fd0a14a27a693a732930d1462db30b61b887a9e7029917be204b94a7e13429a026df61848d2133f8720b9'

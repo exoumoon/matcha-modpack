@@ -9,9 +9,129 @@ instance:
 settings:
   vcs_mode: track_components
 local_components:
+- source_path: options.txt
+  runtime_path: options.txt
+  category: datapack
+  environment:
+    client: required
+    server: unsupported
 - source_path: mods/emi-1.1.24-b60b8f8+26.2+fabric.jar
   runtime_path: null
   category: mod
   environment:
     client: required
     server: required
+- source_path: resourcepacks/vanilla-tweaks.zip
+  runtime_path: null
+  category: resourcepack
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/streamsreflowing.properties
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/biome_replacer.properties
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/reliable_replacer/config.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/asynclogger.toml
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/resourcepackoverrides.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/structurify.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/atmosfera.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/emi.css
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/cirrus-client.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/sleepwarp.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/matcha-flavoured-client.properties
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/opentogether-server.toml
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/fallingtree.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/MouseTweaks.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/sodium-extra-options.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/shine_presets/minimal.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/shine_presets/minimal.zip
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/modmenu.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported

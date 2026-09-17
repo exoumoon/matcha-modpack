@@ -1,0 +1,16 @@
+id: balm
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/MBAkmtvl/versions/LcKC6Cxw/balm-fabric-26.2-26.2.0.8.jar
+  file_name: balm-fabric-26.2-26.2.0.8.jar
+  file_size: 1198089
+  version_id: LcKC6Cxw
+  hashes:
+    sha1: '2c037dc7d459c92a3cbf80c7c6adcf14394a8219'
+    sha512: '2434a667a7a2300d2d1e2bca193167d61b23a9512eb1a1c5e5536884e52c9e5e937de68ec0492b8c4f3c6c4c8eab2bd988a23105bb494867458e00e756b2357f'

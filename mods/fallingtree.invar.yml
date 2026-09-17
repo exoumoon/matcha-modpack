@@ -1,0 +1,16 @@
+id: fallingtree
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Fb4jn8m6/versions/sOoH5kkd/FallingTree-26.2-25.jar
+  file_name: FallingTree-26.2-25.jar
+  file_size: 493214
+  version_id: sOoH5kkd
+  hashes:
+    sha1: b094d747558653554ffb9e883bb42b4df7542833
+    sha512: b47a93c6fed4bfc9da70881d6eea5df771c79a679fc2473b0c987935736a3c85b1a5c7ab1a2580d0833413ddc6ca02aa5d5996e9e88bd7b0387a3ff74f049130

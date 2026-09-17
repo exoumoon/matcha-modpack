@@ -1,0 +1,16 @@
+id: horseman
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/qIv5FhAA/versions/xU6ysEWF/horseman-fabric-26.2-1.7.5.jar
+  file_name: horseman-fabric-26.2-1.7.5.jar
+  file_size: 281540
+  version_id: xU6ysEWF
+  hashes:
+    sha1: '7da7e833351ae0306e5a35a8a4abdfe4ddf5478e'
+    sha512: a2638c182bb2a3fcd33a2428506a746db42eae4e9923022a72edb7830e949a8b025ca5c0f9ec29ebcd6c7735a9fb73a3c0c2349c83b38ee346dbc1ed34bea184

@@ -1,0 +1,16 @@
+id: bars-and-ladders
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Ilv1YoHK/versions/iKuuoC4o/BarsAndLadders-1.0.0%2B26.2.jar
+  file_name: BarsAndLadders-1.0.0+26.2.jar
+  file_size: 29702
+  version_id: iKuuoC4o
+  hashes:
+    sha1: '7579a0585677a86a4260b53a5c4aeafb6eb8ff99'
+    sha512: d1700e2432648943c4873cb266fec4d0bc795e5c4ea17bfb86f58980ebec51e0650026de1d0691583c4f074caaa18f13a2dce833b2c3544bcc66ab2d1a250c9e

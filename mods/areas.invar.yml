@@ -1,0 +1,16 @@
+id: areas
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/NWvsqJ2Z/versions/jzAAe6Pa/areas-26.2.0-6.4.jar
+  file_name: areas-26.2.0-6.4.jar
+  file_size: 109250
+  version_id: jzAAe6Pa
+  hashes:
+    sha1: '171f755f4ab20f00cf8d70cf214937b5df078181'
+    sha512: d0575c572e76ccfaab8751bb41c37db790c07187d19e5aed170973a40a006bed27e8a4469a47fca0577c7e2fda8ab20de2664f9a6088a739c0011f15c46dafd8

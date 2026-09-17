@@ -1,0 +1,16 @@
+id: resource-pack-overrides
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/YsFycamt/versions/rzgCX4qP/ResourcePackOverrides-v26.2.0-mc26.2.x-Fabric.jar
+  file_name: ResourcePackOverrides-v26.2.0-mc26.2.x-Fabric.jar
+  file_size: 57676
+  version_id: rzgCX4qP
+  hashes:
+    sha1: '45b8106e9fabf230588cf8ee6b13205f97ee53c2'
+    sha512: '3a000ff19ea637bed56c2356b0e1d80876fe17aaaf6b2fe449b08f46e49ac9aa93a3ebd6ec54133f18cbc3f70cb6371fa1671c1d4a544194b2fde7013196b5bc'

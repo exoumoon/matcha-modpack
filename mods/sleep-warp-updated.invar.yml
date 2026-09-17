@@ -1,0 +1,16 @@
+id: sleep-warp-updated
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/DlSXkZVT/versions/QsGZ9Vlw/sleepwarp-2.12.0%2B26.2.jar
+  file_name: sleepwarp-2.12.0+26.2.jar
+  file_size: 142159
+  version_id: QsGZ9Vlw
+  hashes:
+    sha1: '0bf3e703efb3df63c1277e9eaed8c3cec25c5e2b'
+    sha512: '11d1e5e0b38138b35391be99ebd2dd6095ca6e57acf76a6344dbf303f421d384e3fad0624c26a2733abc870ac502bfc85f4e42879b11bdc8649dde70a70e12d2'

@@ -1,0 +1,16 @@
+id: anvil-restoration
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/bd8nwTGy/versions/7R7j6qiw/anvilrestoration-26.2.0-2.5.jar
+  file_name: anvilrestoration-26.2.0-2.5.jar
+  file_size: 28533
+  version_id: '7R7j6qiw'
+  hashes:
+    sha1: '2bf2467674b5beabcef300b90616f047cca50ac0'
+    sha512: '8a2fff08a2a63422ca34a244afe4c468168e9ece6e3015749b2dec9374697b949943db2c5f8eb5a8ddd6d58cba5fc901acf9bda97f56c47d6ede5e37041cdbde'

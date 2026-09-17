@@ -1,0 +1,16 @@
+id: mouse-tweaks
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/aC3cM3Vq/versions/jOiTBIaB/MouseTweaks-fabric-mc26.2-2.31.jar
+  file_name: MouseTweaks-fabric-mc26.2-2.31.jar
+  file_size: 75872
+  version_id: jOiTBIaB
+  hashes:
+    sha1: ad5b7e4ad6dc734152d41f05902b65aedb448d64
+    sha512: bc77723465dc4aef7a3a8fa2fea3641df1e6ba7cc8a2d86cd2659ef65ca661f6a763d3997fdaed1f8ff6c78a4c6061f8074160ca3162a29021735779a6c55e46

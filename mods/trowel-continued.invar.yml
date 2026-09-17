@@ -1,0 +1,16 @@
+id: trowel-continued
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/4l4dGvMy/versions/3mK7wcGX/trowel-continued-1.0.1%2B26.2.jar
+  file_name: trowel-continued-1.0.1+26.2.jar
+  file_size: 14012
+  version_id: '3mK7wcGX'
+  hashes:
+    sha1: f8e86a509cbae901ef764059a76d1e72ecc21131
+    sha512: '05ae223f7d7e6f54c1e60f78742ac2b8957e18d4579427afc5378dab761e9c3db8ccb4a6cf7d3bad3536ce3fe08871e3c02dc993fe2e0cfa2024c9e28de9aefe'

@@ -1,0 +1,16 @@
+id: name-tag-upgrade
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/d7LHtwd7/versions/OiB7OKMb/NameTagUpgrade-v26.2.2-mc26.2.x-Fabric.jar
+  file_name: NameTagUpgrade-v26.2.2-mc26.2.x-Fabric.jar
+  file_size: 67101
+  version_id: OiB7OKMb
+  hashes:
+    sha1: a1a76ae49ab19cf0280f2f9b29076811e151d25f
+    sha512: cee64aa577e87d11b864f4f4ffc3ebef912ed2298da755a2c1c689dbed2007ba2385610b1c752253f505d866d03d22609fa095e0a7a80bf5e2d57490185a3a1f

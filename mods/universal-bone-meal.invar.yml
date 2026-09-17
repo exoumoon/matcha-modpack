@@ -1,0 +1,16 @@
+id: universal-bone-meal
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/66VIiT1y/versions/DBr4XW76/UniversalBoneMeal-v26.2.0-mc26.2.x-Fabric.jar
+  file_name: UniversalBoneMeal-v26.2.0-mc26.2.x-Fabric.jar
+  file_size: 69931
+  version_id: DBr4XW76
+  hashes:
+    sha1: '09112030820b853e07c05f40e40a987b7d3297ca'
+    sha512: '121c73385556fedb44a660e1255470fb0886a2b6e3a855155b32684591288eb8cf8e81771fa2b186cd9defce782e8c4c3e1a516b308d1f93f74cb8d7b1006ac9'

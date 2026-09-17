@@ -1,0 +1,16 @@
+id: matcha-textures-for-trashslot
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/jyBO97wx/versions/jiEajR3u/trashslot-matcha-recolor.zip
+  file_name: trashslot-matcha-recolor.zip
+  file_size: 92710
+  version_id: jiEajR3u
+  hashes:
+    sha1: '9bad5335e1383587f86a6cd88b86cf3bcde59624'
+    sha512: '80a46237d6972283f33e03c4350aec5829ec6c4a6fd8d82ddbef77774fe5d561f1b96e3e8aea95b38e674be0bdba983ee9113a2a509a558b99651e2329e82c32'

@@ -1,0 +1,16 @@
+id: leave-my-bars-alone
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/gK9mebQg/versions/8xoAPNDL/LeaveMyBarsAlone-v26.2.0-mc26.2.x-Fabric.jar
+  file_name: LeaveMyBarsAlone-v26.2.0-mc26.2.x-Fabric.jar
+  file_size: 26940
+  version_id: '8xoAPNDL'
+  hashes:
+    sha1: '444d127efa13e9775d02c1a7c121d26f7529949a'
+    sha512: aebb4daaf1135a061868ae0c18a38bfebef4cba131f46c73743f43b005dcd3bf6d4bf95937fc2458329999cc20335bf93ef65acffc00ad1df6659fc10e57d185
