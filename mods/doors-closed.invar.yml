@@ -1,0 +1,16 @@
+id: doors-closed
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/L49j7sQG/versions/NA4I85Bx/doors-closed-1.0.1%2B26.1.2.jar
+  file_name: doors-closed-1.0.1+26.1.2.jar
+  file_size: 9233
+  version_id: NA4I85Bx
+  hashes:
+    sha1: '4667470c01cbd86db509e9f7db6f15b8e90b9acc'
+    sha512: '1c504489e84e5d70634383b4a8ce25edab4f28ae900dcbe2bf245c46143754f35a4e45db0189f8a987a03e4f95b61e58ffbace4ea05691532ad4b930cb5bc2f7'

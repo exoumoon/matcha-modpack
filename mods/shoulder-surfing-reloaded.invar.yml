@@ -1,0 +1,16 @@
+id: shoulder-surfing-reloaded
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/kepjj2sy/versions/xF3YjhUq/ShoulderSurfing-Fabric-26.2-5.0.11.jar
+  file_name: ShoulderSurfing-Fabric-26.2-5.0.11.jar
+  file_size: 343777
+  version_id: xF3YjhUq
+  hashes:
+    sha1: '3a74284ffec634049dfc21b813840d87eacfd804'
+    sha512: '580baac3b184533101f4b0840fb7af7cfbca15c75fceba4b79ea797e0f9503d78e3df4d7854e111683e9793faad40bc5b0609e29a7ecaba74067f9dad577b621'

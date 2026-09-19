@@ -1,0 +1,16 @@
+id: item-descriptions
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/UaizcMKP/versions/fu09rx8G/item_descriptions-2.8.4%2B26.2-fabric.jar
+  file_name: item_descriptions-2.8.4+26.2-fabric.jar
+  file_size: 582397
+  version_id: fu09rx8G
+  hashes:
+    sha1: '532c76f1d129384fff7c7b3a6c3f1f462a8669e5'
+    sha512: '5721c2bdd9c3c3105d76963e668d1e78dff75697ac2383f82b10dd1168a3a44d7209b40660ad85964a0bfd3539e605562fd51c2c54921216e270e99cbc3a701b'

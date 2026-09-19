@@ -1,0 +1,16 @@
+id: nosurfacelava
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/wpuEjeop/versions/svMU4OqA/NoSurfaceLava-1.1%2B1.21.x-26.2.jar
+  file_name: NoSurfaceLava-1.1+1.21.x-26.2.jar
+  file_size: 942118
+  version_id: svMU4OqA
+  hashes:
+    sha1: dce44059f985a66e1683bd813e15ee1c19d9f1f7
+    sha512: '5eefd4a6dd72fe843d7157619cbb6768850cac324c326f4c3ad5932264da4b07e8a2bf402ea1c09913e5837a6c6c062ffedc3123abff93b60e9f25b60f87c7c8'

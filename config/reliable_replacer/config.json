@@ -26,6 +26,12 @@
 	},
 
 	{
+		"inputs": ["minecraft:azalea_leaves"],
+		"output": "minecraft:birch_leaves",
+		"player_blocks": false
+	},
+
+	{
 		"inputs": ["minecraft:sunflower"],
 		"state_properties": {
 			"half": "lower"

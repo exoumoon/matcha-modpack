@@ -9,9 +9,9 @@ instance:
 settings:
   vcs_mode: track_components
 local_components:
-- source_path: options.txt
-  runtime_path: options.txt
-  category: datapack
+- source_path: config/yosbs/options.txt
+  runtime_path: null
+  category: config
   environment:
     client: required
     server: unsupported
@@ -130,6 +130,24 @@ local_components:
     client: required
     server: unsupported
 - source_path: config/modmenu.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/inventoryprofilesnext.json
+  runtime_path: config/inventoryprofilesnext/inventoryprofiles.json
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/voxy-config.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/smoothswapping.json
   runtime_path: null
   category: config
   environment:

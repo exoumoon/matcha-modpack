@@ -28,9 +28,6 @@ services:
       MAX_PLAYERS: 8
       MODE: survival
       # SEED: 0
-      # SEED: 7                    # (lithosphere+clifftree) large landmass @ spawn, most explored
-      # SEED: -3144770686440785689 # (lithosphere+clifftree) ~2k block wide island @ spawn, large ocean
-      # SEED: 8582461431460267422  # (lithosphere+clifftree) lots of islands too choose from
 
       RCON_CMDS_STARTUP:  |-
         cs center 0 0
@@ -45,9 +42,5 @@ services:
       type: bind
     - source: export/matcha-flavoured-latest.mrpack
       target: /data/modpack.mrpack
-      type: bind
-      read_only: true
-    - source: assets/pack.png
-      target: /pack.png
       type: bind
       read_only: true

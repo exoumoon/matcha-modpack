@@ -1,0 +1,16 @@
+id: mru
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/SNVQ2c0g/versions/hwBIFbwv/mru-1.0.40%2B26.2-fabric.jar
+  file_name: mru-1.0.40+26.2-fabric.jar
+  file_size: 155133
+  version_id: hwBIFbwv
+  hashes:
+    sha1: '520633ce05a822cb8c892c005d2aa98515aa1608'
+    sha512: '93f0b1f10a8d73ccc6746f2b8c3a230fefcd0accada7d4c3fdf0abff67e51e8c7be29785f5ca43d94b2ad1912b86b31a47fd14e8dd47e861be9858da1e8eebe4'

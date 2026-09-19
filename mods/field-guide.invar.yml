@@ -1,0 +1,16 @@
+id: field-guide
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/72RRCWM6/versions/LpPxYnPl/fieldguide-fabric-26.2-1.7.11.jar
+  file_name: fieldguide-fabric-26.2-1.7.11.jar
+  file_size: 1097934
+  version_id: LpPxYnPl
+  hashes:
+    sha1: be631307ac261d32177aa38afc2ab5f52749ac67
+    sha512: d6a37a4099d2b1c58815dae1e43794cf8d047781aaae4aef9717015234253ff5c31597c3d911df3e34a7f2eb4767e63c63d614168b1cfee4db64af058e604e90

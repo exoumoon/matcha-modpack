@@ -1,0 +1,16 @@
+id: nocturnal-bats
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/qu8ckNJQ/versions/aSwmHlzt/nocturnal-bats-1.1.0%2B26.1.2.jar
+  file_name: nocturnal-bats-1.1.0+26.1.2.jar
+  file_size: 11780
+  version_id: aSwmHlzt
+  hashes:
+    sha1: cc348d7ecada529785e78d3a140a970c5cf26f1d
+    sha512: '31e981609f3c70dee2b2a033a548b1826662e564a1a8b9b7ebfe65cef81f6ea27392d7225e225dd61783071019b6d6eab78dfe9dc97cc7e1a8a6059011e449a8'

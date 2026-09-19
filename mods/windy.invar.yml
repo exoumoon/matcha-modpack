@@ -1,0 +1,16 @@
+id: windy
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/EwYg6C78/versions/qKwLQacO/Windy-1.1.1%2B26.1.jar
+  file_name: Windy-1.1.1+26.1.jar
+  file_size: 38879
+  version_id: qKwLQacO
+  hashes:
+    sha1: '776d59ad1c22f9b2dd04c15c726d2f964b79b216'
+    sha512: '953d568f15c5d82dbb12d6dee12dd4947fa977f560dab155b1fd2201ad559c259ce4d93ca589fc30f80aa9332231483d2116742639eab9a9df01c962938fbcf6'

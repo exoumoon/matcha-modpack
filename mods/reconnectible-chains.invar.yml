@@ -1,0 +1,16 @@
+id: reconnectible-chains
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/5pzBXDS3/versions/YAszlXoQ/connectiblechains-fabric-26.2-2.3.2.jar
+  file_name: connectiblechains-fabric-26.2-2.3.2.jar
+  file_size: 243435
+  version_id: YAszlXoQ
+  hashes:
+    sha1: '506b50c166b8c0745b2cd3ec004fce55da22fedd'
+    sha512: '34470680a3513a721812d21d64ef0f50e51b946cab8adb6b5d060dbd90e6455d8905de7c0e012d1133e0d5b63915aa0d3861a5581e4d348c911c2e4d85188175'

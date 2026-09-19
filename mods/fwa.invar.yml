@@ -1,0 +1,16 @@
+id: fwa
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/IAzUFvS6/versions/jDhQZUWU/fwa%2B26.2-1.2.40.jar
+  file_name: fwa+26.2-1.2.40.jar
+  file_size: 211036
+  version_id: jDhQZUWU
+  hashes:
+    sha1: '6cbfbf8f65f3599a2c609f44abaf1774b0d8b2c2'
+    sha512: '7604ae0c3c4cd713d3ff4ccfa1b15783a5fa899c688a6f367df4a3ab32d917725d5bea4ce5e3e57332bc7636671f85cd6bbc9272958673bedbe41921c1a73783'

@@ -1,0 +1,16 @@
+id: trinkets-updated
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/XaT8sLP6/versions/jhbhwQFz/trinkets-4.1.0%2B26.2.jar
+  file_name: trinkets-4.1.0+26.2.jar
+  file_size: 663379
+  version_id: jhbhwQFz
+  hashes:
+    sha1: '591744b0d97733ea15106d3c9c33c0ebb29d8daa'
+    sha512: '0edc784a841de2fe2f0e319bf87e6a44e478d53d11a8298a75832a6564507ac37a7941f642406901f49edc90bdd794d1dd748d69b63f1698284b6d46a729206e'

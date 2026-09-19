@@ -1,0 +1,16 @@
+id: better-smoke
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/Effrh3ze/versions/8HF8DC7x/bettersmoke-0.1.2%2B26.2.jar
+  file_name: bettersmoke-0.1.2+26.2.jar
+  file_size: 236631
+  version_id: '8HF8DC7x'
+  hashes:
+    sha1: e26a65ba4d687a59dd8cce6e3b65d8828f6ff503
+    sha512: '4fbdaf85f3da2c6acbb09cb099410dc03cc36f003b0d8929046a092dc8027ff52b3f5109f7911b2ae4c607c8a15c7a33a061a1b2ab82dab4be7c9b60ae472045'
