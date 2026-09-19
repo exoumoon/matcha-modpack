@@ -2,7 +2,7 @@
   description = "";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-26.05";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
     invar = {
       url = "github:exoumoon/invar";
       inputs.nixpkgs.follows = "nixpkgs";
@@ -43,9 +43,9 @@
 
                 docker compose down
                 invar pack export
-                # docker compose up -d
-                # docker compose logs -f --no-log-prefix
-                docker compose up --no-log-prefix
+                docker compose up -d
+                docker compose logs -f --no-log-prefix
+                # docker compose up --no-log-prefix
               '')
             ];
 
