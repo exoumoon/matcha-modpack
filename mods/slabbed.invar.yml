@@ -1,0 +1,16 @@
+id: slabbed
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/5nraCxl9/versions/HHPf8HNY/slabbed-0.5.2-alpha.11%2B26.2.jar
+  file_name: slabbed-0.5.2-alpha.11+26.2.jar
+  file_size: 420729
+  version_id: HHPf8HNY
+  hashes:
+    sha1: '3d8e90516544935fbec4c24137c94bb7da84c686'
+    sha512: a060255faf7d5927eb213e8aa5a7ec5dec9a4cc193dd199513de97055bbedc6233caef1ccc5d983e57846c2bb58d890fb8aba3c9878f3c1d243ba952790d694f

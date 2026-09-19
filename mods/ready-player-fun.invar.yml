@@ -1,0 +1,16 @@
+id: ready-player-fun
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/AwiAYDUq/versions/bxLRRYxs/readyplayerfun-26.2-fabric-3.1.0.5-FABRIC.jar
+  file_name: readyplayerfun-26.2-fabric-3.1.0.5-FABRIC.jar
+  file_size: 858871
+  version_id: bxLRRYxs
+  hashes:
+    sha1: cd0b5be2345e0d4bd1d5f6befe3859c985841519
+    sha512: d4090607096d6c216c279bf85f7d2ef25eb1f724b8c2347c83baa24ab66953a24c49d953289bbde537394f4ef38f934164c271203126f906725435f41820160c

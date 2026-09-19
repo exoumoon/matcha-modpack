@@ -1,0 +1,16 @@
+id: locatemore
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/7Rblt26W/versions/YE16EoH8/locatemore-1.20.7.jar
+  file_name: locatemore-1.20.7.jar
+  file_size: 178305
+  version_id: YE16EoH8
+  hashes:
+    sha1: '8836f8abb0723d8cd7b1cb12d5634a3f8bba6d71'
+    sha512: '2c0a6dcb2baa4434449490092304fce35e229e9caf5377ceeef4092a7dfdbfc16df8c4bdd0cc413a61c790d34baf5b20801bb17698ea045a9c0de08cce118510'

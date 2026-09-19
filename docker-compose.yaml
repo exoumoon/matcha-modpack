@@ -38,7 +38,7 @@ services:
         cs radius 512
         cs start minecraft:overworld
         cs confirm
-    restart: no
+    restart: unless-stopped
     volumes:
     - source: server
       target: /data
