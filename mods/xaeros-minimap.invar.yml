@@ -1,0 +1,16 @@
+id: xaeros-minimap
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/1bokaNcj/versions/VlMbRW2O/xaerominimap-fabric-26.2-26.5.1.jar
+  file_name: xaerominimap-fabric-26.2-26.5.1.jar
+  file_size: 2221890
+  version_id: VlMbRW2O
+  hashes:
+    sha1: '97fb08e926a341c9c546879c25b1e1f32215dfc9'
+    sha512: ceee38ce9f7dac967b7ff42eb940c00cc50596b0d9da8401a59b55be904fee703d91a72ea00d0e235f33c7fe5d75f7804ac055de92d34b0873cbc1043a101c0d

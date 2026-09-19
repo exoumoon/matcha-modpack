@@ -1,0 +1,16 @@
+id: xaeros-world-map
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/NcUtCpym/versions/q0Wvp46X/xaeroworldmap-fabric-26.2-1.46.1.jar
+  file_name: xaeroworldmap-fabric-26.2-1.46.1.jar
+  file_size: 1477484
+  version_id: q0Wvp46X
+  hashes:
+    sha1: c9303ef6a8d6e2b9ffb3f3dbddbfcdff1326c2cb
+    sha512: '9e9747a3a7ee4ad1c00944c3c922895044a77f5a5d9a8a12eb012676dae66e3800440d7f4a1603e788bfdc2cef8a42be74e42dd01985c94f9073c80b00309775'

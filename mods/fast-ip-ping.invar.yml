@@ -1,0 +1,16 @@
+id: fast-ip-ping
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/9mtu0sUO/versions/uA3MAgMy/fast-ip-ping-v1.0.12-mc26.2.jar
+  file_name: fast-ip-ping-v1.0.12-mc26.2.jar
+  file_size: 11320
+  version_id: uA3MAgMy
+  hashes:
+    sha1: '94fd6ea5f9f70bd385b2f0174e3856ca688b519f'
+    sha512: '7d1aef1ff9c688bdb2859e25e7da634f61d511366c1c4d38ac6ca57fa46fa37792bde12cb47a35880ad9f5d232b67551fe74baab506c1a46b3ae164e2c3921e4'

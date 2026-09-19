@@ -1,0 +1,16 @@
+id: ping-view
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/gvl7lVcV/versions/C9VPqSKD/pingview-fabric-1.6.jar
+  file_name: pingview-fabric-1.6.jar
+  file_size: 17441
+  version_id: C9VPqSKD
+  hashes:
+    sha1: c81b0a7f39d734c796ea939afe6afc63d5f0924b
+    sha512: '1c548f0e95c6846092c2cf5111886daed19de06f8a3422656286faee51c36e571d0196758788d4382f618191169170219f7d1d131bf52aa3f2ff5709d49980ed'

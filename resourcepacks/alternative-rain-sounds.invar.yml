@@ -1,0 +1,16 @@
+id: alternative-rain-sounds
+category: resourcepack
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/IjeNkkG5/versions/6NhQYOHT/Alternative%20Rain%20Sounds%201.21.9-1.21.11.zip
+  file_name: Alternative Rain Sounds 1.21.9-1.21.11.zip
+  file_size: 583637
+  version_id: '6NhQYOHT'
+  hashes:
+    sha1: fd88d1ebd9062566523f75eacd62019edc170fab
+    sha512: fc84ac9a7aed476094397e51683791f0ed3c7afeea216b2dc5fffbf6bb4b6e53be3cd9645794655f0e20a51ce4e01ae9b9b6ebbed78b5d227c770f6cc79c3281

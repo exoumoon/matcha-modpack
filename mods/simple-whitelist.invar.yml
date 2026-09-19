@@ -1,0 +1,16 @@
+id: simple-whitelist
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: unsupported
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/JirFBOYr/versions/IFeAURWX/simple-whitelist-1.1.0%2Bmc26.2.jar
+  file_name: simple-whitelist-1.1.0+mc26.2.jar
+  file_size: 2631867
+  version_id: IFeAURWX
+  hashes:
+    sha1: '5a3cceb04cb2d509d907b4444d01e95b53fde50d'
+    sha512: '7ec6a8e784a9a1ea640f4d71579e72fa018b5882870bb4ee14ca8b1b20617ea21de172452d7ea83ebbb53a252502ddea0faeda1947418f32bb0ae1aa93560053'

@@ -1,0 +1,8 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "com.evandev.fieldguide.client.gui.screens.FieldGuideJournalScreen": false,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true
+  },
+  "hideBackground": {}
+}

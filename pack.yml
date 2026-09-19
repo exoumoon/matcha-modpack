@@ -153,3 +153,135 @@ local_components:
   environment:
     client: required
     server: unsupported
+- source_path: config/shine_state.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/invmove/unrecognized.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/shouldersurfing-client.toml
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/xaero/world-map/common.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/world-map/server_profiles/default.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/world-map/client.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/world-map/profiles/default.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/lib/server_profiles/default.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/lib/profiles/default.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/lib/common.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/lib/client.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/minimap/profiles/default.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/minimap/profiles/info_display_config/default.cfg.txt
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/minimap/server_profiles/default.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/minimap/client.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/minimap/default_radar_categories_client.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/minimap/default_radar_categories_server.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/xaero/minimap/common.cfg
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: required
+- source_path: config/ping-wheel.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/punchy/punchy_tuning.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported
+- source_path: config/fieldguide-client.json
+  runtime_path: null
+  category: config
+  environment:
+    client: required
+    server: unsupported

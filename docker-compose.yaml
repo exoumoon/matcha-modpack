@@ -14,8 +14,7 @@ services:
       FABRIC_VERSION: '0.19.5'
       ALLOW_FLIGHT: true
       RCON_CMDS_FIRST_CONNECT: |
-        /whitelist off
-        /op mxxntype
+        op mxxntype
       MEMORY: '8G'
       ENABLE_AUTOPAUSE: false
       TYPE: MODRINTH
@@ -27,9 +26,13 @@ services:
       VIEW_DISTANCE: 12
       MAX_PLAYERS: 8
       MODE: survival
-      # SEED: 0
+      SEED: 2551431648728912635
 
       RCON_CMDS_STARTUP:  |-
+        simplewhitelist on
+        simplewhitelist add mxxntype
+        simplewhitelist add exoudueux
+
         cs center 0 0
         cs shape circle
         cs radius 512

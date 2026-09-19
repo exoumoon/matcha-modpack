@@ -1,0 +1,16 @@
+id: seeu
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/coyNPDey/versions/Wi3MtGj8/seeu-paper-0.9.1.jar
+  file_name: seeu-paper-0.9.1.jar
+  file_size: 66156
+  version_id: Wi3MtGj8
+  hashes:
+    sha1: '7e43eff4be22cca7ba3276d8861ada6c963e24cd'
+    sha512: c7f1920df4b0abc7046db9e6230e409cc7e223007f20df590b44a233d4aa0c092c59dd98c0462a6c1931949670e137c5e53ad2e3d09e048a3c2075c4a67f397b

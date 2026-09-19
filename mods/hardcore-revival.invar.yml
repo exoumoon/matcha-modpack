@@ -1,0 +1,16 @@
+id: hardcore-revival
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/HqKoXaXz/versions/NqBY7aOQ/hardcorerevival-fabric-26.2-26.2.0.6.jar
+  file_name: hardcorerevival-fabric-26.2-26.2.0.6.jar
+  file_size: 369073
+  version_id: NqBY7aOQ
+  hashes:
+    sha1: b6b1045cdca2128f3210480ea213ff9455101b1a
+    sha512: '148ed7a1faa9dc77dc749439254dfa333a254b9568b703f055897eb956b7079ea858dcd318ea6201d46ac8d17b8b806c4d49b7ce49501e22a962dfb81807872f'

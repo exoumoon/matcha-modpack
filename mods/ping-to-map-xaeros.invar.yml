@@ -1,0 +1,16 @@
+id: ping-to-map-xaeros
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: unsupported
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/8YgFuv6f/versions/5kAoWnzN/pingtomapxaeros-1.1.1-fabric-26.2.jar
+  file_name: pingtomapxaeros-1.1.1-fabric-26.2.jar
+  file_size: 22802
+  version_id: '5kAoWnzN'
+  hashes:
+    sha1: a37cf4e3bbfaf654fc1da5e50b59230a8d683747
+    sha512: ded89daef9da89c25044646592040ab646a9b76a30cf0c8977e844a70fb4b64e8ac30f948d7d6c41f46a898a2fa27795fbf7a3a1b8917a9db2e6ab17f945153f
