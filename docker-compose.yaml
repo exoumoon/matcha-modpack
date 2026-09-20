@@ -32,12 +32,11 @@ services:
         simplewhitelist on
         simplewhitelist add mxxntype
         simplewhitelist add exoudueux
-
-        cs center 0 0
-        cs shape circle
-        cs radius 512
-        cs start minecraft:overworld
-        cs confirm
+      # cs center 0 0
+      # cs shape circle
+      # cs radius 512
+      # cs start minecraft:overworld
+      # cs confirm
     restart: unless-stopped
     volumes:
     - source: server
