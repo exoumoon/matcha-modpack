@@ -1,0 +1,16 @@
+id: horse-expert
+category: mod
+tags:
+  main: null
+  others: []
+environment:
+  client: required
+  server: required
+source: !Remote
+  download_url: https://cdn.modrinth.com/data/24CSPS1E/versions/u9La5hoN/HorseExpert-v26.2.1-mc26.2.x-Fabric.jar
+  file_name: HorseExpert-v26.2.1-mc26.2.x-Fabric.jar
+  file_size: 70195
+  version_id: u9La5hoN
+  hashes:
+    sha1: '81b2a54c3bf85a3759f2927a5445e53e192163bb'
+    sha512: '3ee7c9b30791c61e24c1350a46b26856b5a697b83e0cd2161f1001c77ef5e19b2acf58164e3dcd7128d2af24f6515969064ecaec03c62d541c48654806fda0d2'
